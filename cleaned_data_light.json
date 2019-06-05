@@ -1,0 +1,7207 @@
+[
+  {
+    "REF_DATE": "8-Jan",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 69.9
+  },
+  {
+    "REF_DATE": "8-Feb",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 72
+  },
+  {
+    "REF_DATE": "8-Mar",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 72.1
+  },
+  {
+    "REF_DATE": "8-Apr",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 74.6
+  },
+  {
+    "REF_DATE": "8-May",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 77.4
+  },
+  {
+    "REF_DATE": "8-Jun",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 79.6
+  },
+  {
+    "REF_DATE": "8-Jul",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 82
+  },
+  {
+    "REF_DATE": "8-Aug",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 82.6
+  },
+  {
+    "REF_DATE": "8-Sep",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 82.6
+  },
+  {
+    "REF_DATE": "8-Oct",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 83
+  },
+  {
+    "REF_DATE": "8-Nov",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 85.9
+  },
+  {
+    "REF_DATE": "8-Dec",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 86
+  },
+  {
+    "REF_DATE": "9-Jan",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 86.8
+  },
+  {
+    "REF_DATE": "9-Feb",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 86.7
+  },
+  {
+    "REF_DATE": "9-Mar",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 87.1
+  },
+  {
+    "REF_DATE": "9-Apr",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 87.3
+  },
+  {
+    "REF_DATE": "9-May",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 87.3
+  },
+  {
+    "REF_DATE": "9-Jun",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 87.7
+  },
+  {
+    "REF_DATE": "9-Jul",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 87.7
+  },
+  {
+    "REF_DATE": "9-Aug",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 88.7
+  },
+  {
+    "REF_DATE": "9-Sep",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 88.7
+  },
+  {
+    "REF_DATE": "9-Oct",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 88.7
+  },
+  {
+    "REF_DATE": "9-Nov",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 89.3
+  },
+  {
+    "REF_DATE": "9-Dec",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 89.9
+  },
+  {
+    "REF_DATE": "10-Jan",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 91.5
+  },
+  {
+    "REF_DATE": "10-Feb",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 91.5
+  },
+  {
+    "REF_DATE": "10-Mar",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 91.5
+  },
+  {
+    "REF_DATE": "10-Apr",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 92.5
+  },
+  {
+    "REF_DATE": "10-May",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 92.7
+  },
+  {
+    "REF_DATE": "10-Jun",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 93
+  },
+  {
+    "REF_DATE": "10-Jul",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 93
+  },
+  {
+    "REF_DATE": "10-Aug",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 93
+  },
+  {
+    "REF_DATE": "10-Sep",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 93
+  },
+  {
+    "REF_DATE": "10-Oct",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 93
+  },
+  {
+    "REF_DATE": "10-Nov",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 97
+  },
+  {
+    "REF_DATE": "10-Dec",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 97
+  },
+  {
+    "REF_DATE": "11-Jan",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 97.2
+  },
+  {
+    "REF_DATE": "11-Feb",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 97.2
+  },
+  {
+    "REF_DATE": "11-Mar",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 97.2
+  },
+  {
+    "REF_DATE": "11-Apr",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 97.1
+  },
+  {
+    "REF_DATE": "11-May",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 97
+  },
+  {
+    "REF_DATE": "11-Jun",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 97
+  },
+  {
+    "REF_DATE": "11-Jul",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 96.9
+  },
+  {
+    "REF_DATE": "11-Aug",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 96.9
+  },
+  {
+    "REF_DATE": "11-Sep",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 96.9
+  },
+  {
+    "REF_DATE": "11-Oct",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 96.9
+  },
+  {
+    "REF_DATE": "11-Nov",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 96.9
+  },
+  {
+    "REF_DATE": "11-Dec",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 96.9
+  },
+  {
+    "REF_DATE": "12-Jan",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 96.5
+  },
+  {
+    "REF_DATE": "12-Feb",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 96.5
+  },
+  {
+    "REF_DATE": "12-Mar",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 96.8
+  },
+  {
+    "REF_DATE": "12-Apr",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 96.8
+  },
+  {
+    "REF_DATE": "12-May",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 97
+  },
+  {
+    "REF_DATE": "12-Jun",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 97.1
+  },
+  {
+    "REF_DATE": "12-Jul",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 97.7
+  },
+  {
+    "REF_DATE": "12-Aug",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 97.7
+  },
+  {
+    "REF_DATE": "12-Sep",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 97.5
+  },
+  {
+    "REF_DATE": "12-Oct",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 97.5
+  },
+  {
+    "REF_DATE": "12-Nov",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 97.5
+  },
+  {
+    "REF_DATE": "12-Dec",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 97.5
+  },
+  {
+    "REF_DATE": "13-Jan",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 97.7
+  },
+  {
+    "REF_DATE": "13-Feb",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 97.7
+  },
+  {
+    "REF_DATE": "13-Mar",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 97.7
+  },
+  {
+    "REF_DATE": "13-Apr",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 98.6
+  },
+  {
+    "REF_DATE": "13-May",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 98.8
+  },
+  {
+    "REF_DATE": "13-Jun",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 98.8
+  },
+  {
+    "REF_DATE": "13-Jul",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99.4
+  },
+  {
+    "REF_DATE": "13-Aug",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99.6
+  },
+  {
+    "REF_DATE": "13-Sep",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99.6
+  },
+  {
+    "REF_DATE": "13-Oct",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99.6
+  },
+  {
+    "REF_DATE": "13-Nov",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99.6
+  },
+  {
+    "REF_DATE": "13-Dec",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99.6
+  },
+  {
+    "REF_DATE": "14-Jan",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99.6
+  },
+  {
+    "REF_DATE": "14-Feb",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99.6
+  },
+  {
+    "REF_DATE": "14-Mar",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99.9
+  },
+  {
+    "REF_DATE": "14-Apr",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99.9
+  },
+  {
+    "REF_DATE": "14-May",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99.8
+  },
+  {
+    "REF_DATE": "14-Jun",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99.7
+  },
+  {
+    "REF_DATE": "14-Jul",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99.7
+  },
+  {
+    "REF_DATE": "14-Aug",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99.7
+  },
+  {
+    "REF_DATE": "14-Sep",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99.7
+  },
+  {
+    "REF_DATE": "14-Oct",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99.7
+  },
+  {
+    "REF_DATE": "14-Nov",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99.9
+  },
+  {
+    "REF_DATE": "14-Dec",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99.9
+  },
+  {
+    "REF_DATE": "15-Jan",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99.9
+  },
+  {
+    "REF_DATE": "15-Feb",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99.9
+  },
+  {
+    "REF_DATE": "15-Mar",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99.9
+  },
+  {
+    "REF_DATE": "15-Apr",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99.9
+  },
+  {
+    "REF_DATE": "15-May",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99.8
+  },
+  {
+    "REF_DATE": "15-Jun",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99.8
+  },
+  {
+    "REF_DATE": "15-Jul",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 100.1
+  },
+  {
+    "REF_DATE": "15-Aug",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 100.1
+  },
+  {
+    "REF_DATE": "15-Sep",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 100.1
+  },
+  {
+    "REF_DATE": "15-Oct",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 100.1
+  },
+  {
+    "REF_DATE": "15-Nov",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 100.3
+  },
+  {
+    "REF_DATE": "15-Dec",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 100.3
+  },
+  {
+    "REF_DATE": "16-Jan",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 100.3
+  },
+  {
+    "REF_DATE": "16-Feb",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 100.3
+  },
+  {
+    "REF_DATE": "16-Mar",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 100.2
+  },
+  {
+    "REF_DATE": "16-Apr",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 100.2
+  },
+  {
+    "REF_DATE": "16-May",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 100.3
+  },
+  {
+    "REF_DATE": "16-Jun",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 100.3
+  },
+  {
+    "REF_DATE": "16-Jul",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "16-Aug",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99.8
+  },
+  {
+    "REF_DATE": "16-Sep",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "16-Oct",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "16-Nov",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "16-Dec",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "17-Jan",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99.6
+  },
+  {
+    "REF_DATE": "17-Feb",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99.6
+  },
+  {
+    "REF_DATE": "17-Mar",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99.5
+  },
+  {
+    "REF_DATE": "17-Apr",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99.5
+  },
+  {
+    "REF_DATE": "17-May",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99.5
+  },
+  {
+    "REF_DATE": "17-Jun",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99.4
+  },
+  {
+    "REF_DATE": "17-Jul",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99.4
+  },
+  {
+    "REF_DATE": "17-Aug",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 98.9
+  },
+  {
+    "REF_DATE": "17-Sep",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 98.9
+  },
+  {
+    "REF_DATE": "17-Oct",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 98.9
+  },
+  {
+    "REF_DATE": "17-Nov",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99
+  },
+  {
+    "REF_DATE": "17-Dec",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99
+  },
+  {
+    "REF_DATE": "18-Jan",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99
+  },
+  {
+    "REF_DATE": "18-Feb",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99
+  },
+  {
+    "REF_DATE": "18-Mar",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99
+  },
+  {
+    "REF_DATE": "18-Apr",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 99
+  },
+  {
+    "REF_DATE": "18-May",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 98.9
+  },
+  {
+    "REF_DATE": "18-Jun",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 98.7
+  },
+  {
+    "REF_DATE": "18-Jul",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 98.9
+  },
+  {
+    "REF_DATE": "18-Aug",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 98.9
+  },
+  {
+    "REF_DATE": "18-Sep",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 98.5
+  },
+  {
+    "REF_DATE": "18-Oct",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 98.4
+  },
+  {
+    "REF_DATE": "18-Nov",
+    "GEO": "Newfoundland & Labrador",
+    "VALUE": 98
+  },
+  {
+    "REF_DATE": "8-Jan",
+    "GEO": "Prince Edward Island",
+    "VALUE": 99.7
+  },
+  {
+    "REF_DATE": "8-Feb",
+    "GEO": "Prince Edward Island",
+    "VALUE": 99.7
+  },
+  {
+    "REF_DATE": "8-Mar",
+    "GEO": "Prince Edward Island",
+    "VALUE": 98.6
+  },
+  {
+    "REF_DATE": "8-Apr",
+    "GEO": "Prince Edward Island",
+    "VALUE": 98.6
+  },
+  {
+    "REF_DATE": "8-May",
+    "GEO": "Prince Edward Island",
+    "VALUE": 98.6
+  },
+  {
+    "REF_DATE": "8-Jun",
+    "GEO": "Prince Edward Island",
+    "VALUE": 98.9
+  },
+  {
+    "REF_DATE": "8-Jul",
+    "GEO": "Prince Edward Island",
+    "VALUE": 98.9
+  },
+  {
+    "REF_DATE": "8-Aug",
+    "GEO": "Prince Edward Island",
+    "VALUE": 98.5
+  },
+  {
+    "REF_DATE": "8-Sep",
+    "GEO": "Prince Edward Island",
+    "VALUE": 98.5
+  },
+  {
+    "REF_DATE": "8-Oct",
+    "GEO": "Prince Edward Island",
+    "VALUE": 98.6
+  },
+  {
+    "REF_DATE": "8-Nov",
+    "GEO": "Prince Edward Island",
+    "VALUE": 98.6
+  },
+  {
+    "REF_DATE": "8-Dec",
+    "GEO": "Prince Edward Island",
+    "VALUE": 98.6
+  },
+  {
+    "REF_DATE": "9-Jan",
+    "GEO": "Prince Edward Island",
+    "VALUE": 98.8
+  },
+  {
+    "REF_DATE": "9-Feb",
+    "GEO": "Prince Edward Island",
+    "VALUE": 99.9
+  },
+  {
+    "REF_DATE": "9-Mar",
+    "GEO": "Prince Edward Island",
+    "VALUE": 99.5
+  },
+  {
+    "REF_DATE": "9-Apr",
+    "GEO": "Prince Edward Island",
+    "VALUE": 99.5
+  },
+  {
+    "REF_DATE": "9-May",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "9-Jun",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "9-Jul",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "9-Aug",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.1
+  },
+  {
+    "REF_DATE": "9-Sep",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.1
+  },
+  {
+    "REF_DATE": "9-Oct",
+    "GEO": "Prince Edward Island",
+    "VALUE": 99.5
+  },
+  {
+    "REF_DATE": "9-Nov",
+    "GEO": "Prince Edward Island",
+    "VALUE": 99.5
+  },
+  {
+    "REF_DATE": "9-Dec",
+    "GEO": "Prince Edward Island",
+    "VALUE": 99.5
+  },
+  {
+    "REF_DATE": "10-Jan",
+    "GEO": "Prince Edward Island",
+    "VALUE": 99.3
+  },
+  {
+    "REF_DATE": "10-Feb",
+    "GEO": "Prince Edward Island",
+    "VALUE": 98.8
+  },
+  {
+    "REF_DATE": "10-Mar",
+    "GEO": "Prince Edward Island",
+    "VALUE": 98.4
+  },
+  {
+    "REF_DATE": "10-Apr",
+    "GEO": "Prince Edward Island",
+    "VALUE": 98.1
+  },
+  {
+    "REF_DATE": "10-May",
+    "GEO": "Prince Edward Island",
+    "VALUE": 98.4
+  },
+  {
+    "REF_DATE": "10-Jun",
+    "GEO": "Prince Edward Island",
+    "VALUE": 98.1
+  },
+  {
+    "REF_DATE": "10-Jul",
+    "GEO": "Prince Edward Island",
+    "VALUE": 97.9
+  },
+  {
+    "REF_DATE": "10-Aug",
+    "GEO": "Prince Edward Island",
+    "VALUE": 97.9
+  },
+  {
+    "REF_DATE": "10-Sep",
+    "GEO": "Prince Edward Island",
+    "VALUE": 97.9
+  },
+  {
+    "REF_DATE": "10-Oct",
+    "GEO": "Prince Edward Island",
+    "VALUE": 97.9
+  },
+  {
+    "REF_DATE": "10-Nov",
+    "GEO": "Prince Edward Island",
+    "VALUE": 97.5
+  },
+  {
+    "REF_DATE": "10-Dec",
+    "GEO": "Prince Edward Island",
+    "VALUE": 97.5
+  },
+  {
+    "REF_DATE": "11-Jan",
+    "GEO": "Prince Edward Island",
+    "VALUE": 97.5
+  },
+  {
+    "REF_DATE": "11-Feb",
+    "GEO": "Prince Edward Island",
+    "VALUE": 98.9
+  },
+  {
+    "REF_DATE": "11-Mar",
+    "GEO": "Prince Edward Island",
+    "VALUE": 98.9
+  },
+  {
+    "REF_DATE": "11-Apr",
+    "GEO": "Prince Edward Island",
+    "VALUE": 99.1
+  },
+  {
+    "REF_DATE": "11-May",
+    "GEO": "Prince Edward Island",
+    "VALUE": 99.6
+  },
+  {
+    "REF_DATE": "11-Jun",
+    "GEO": "Prince Edward Island",
+    "VALUE": 99.6
+  },
+  {
+    "REF_DATE": "11-Jul",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.8
+  },
+  {
+    "REF_DATE": "11-Aug",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.8
+  },
+  {
+    "REF_DATE": "11-Sep",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.7
+  },
+  {
+    "REF_DATE": "11-Oct",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.9
+  },
+  {
+    "REF_DATE": "11-Nov",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.9
+  },
+  {
+    "REF_DATE": "11-Dec",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.9
+  },
+  {
+    "REF_DATE": "12-Jan",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.7
+  },
+  {
+    "REF_DATE": "12-Feb",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.2
+  },
+  {
+    "REF_DATE": "12-Mar",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.2
+  },
+  {
+    "REF_DATE": "12-Apr",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.3
+  },
+  {
+    "REF_DATE": "12-May",
+    "GEO": "Prince Edward Island",
+    "VALUE": 99.9
+  },
+  {
+    "REF_DATE": "12-Jun",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "12-Jul",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.2
+  },
+  {
+    "REF_DATE": "12-Aug",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.1
+  },
+  {
+    "REF_DATE": "12-Sep",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.2
+  },
+  {
+    "REF_DATE": "12-Oct",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "12-Nov",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "12-Dec",
+    "GEO": "Prince Edward Island",
+    "VALUE": 99.2
+  },
+  {
+    "REF_DATE": "13-Jan",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.1
+  },
+  {
+    "REF_DATE": "13-Feb",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.1
+  },
+  {
+    "REF_DATE": "13-Mar",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.1
+  },
+  {
+    "REF_DATE": "13-Apr",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.5
+  },
+  {
+    "REF_DATE": "13-May",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.6
+  },
+  {
+    "REF_DATE": "13-Jun",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.8
+  },
+  {
+    "REF_DATE": "13-Jul",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.9
+  },
+  {
+    "REF_DATE": "13-Aug",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.9
+  },
+  {
+    "REF_DATE": "13-Sep",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.9
+  },
+  {
+    "REF_DATE": "13-Oct",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.8
+  },
+  {
+    "REF_DATE": "13-Nov",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.8
+  },
+  {
+    "REF_DATE": "13-Dec",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.8
+  },
+  {
+    "REF_DATE": "14-Jan",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.5
+  },
+  {
+    "REF_DATE": "14-Feb",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.2
+  },
+  {
+    "REF_DATE": "14-Mar",
+    "GEO": "Prince Edward Island",
+    "VALUE": 99.7
+  },
+  {
+    "REF_DATE": "14-Apr",
+    "GEO": "Prince Edward Island",
+    "VALUE": 99.7
+  },
+  {
+    "REF_DATE": "14-May",
+    "GEO": "Prince Edward Island",
+    "VALUE": 99.6
+  },
+  {
+    "REF_DATE": "14-Jun",
+    "GEO": "Prince Edward Island",
+    "VALUE": 99.4
+  },
+  {
+    "REF_DATE": "14-Jul",
+    "GEO": "Prince Edward Island",
+    "VALUE": 99.3
+  },
+  {
+    "REF_DATE": "14-Aug",
+    "GEO": "Prince Edward Island",
+    "VALUE": 99.3
+  },
+  {
+    "REF_DATE": "14-Sep",
+    "GEO": "Prince Edward Island",
+    "VALUE": 99.1
+  },
+  {
+    "REF_DATE": "14-Oct",
+    "GEO": "Prince Edward Island",
+    "VALUE": 99.1
+  },
+  {
+    "REF_DATE": "14-Nov",
+    "GEO": "Prince Edward Island",
+    "VALUE": 98.8
+  },
+  {
+    "REF_DATE": "14-Dec",
+    "GEO": "Prince Edward Island",
+    "VALUE": 99.3
+  },
+  {
+    "REF_DATE": "15-Jan",
+    "GEO": "Prince Edward Island",
+    "VALUE": 99.3
+  },
+  {
+    "REF_DATE": "15-Feb",
+    "GEO": "Prince Edward Island",
+    "VALUE": 99.3
+  },
+  {
+    "REF_DATE": "15-Mar",
+    "GEO": "Prince Edward Island",
+    "VALUE": 99.5
+  },
+  {
+    "REF_DATE": "15-Apr",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.5
+  },
+  {
+    "REF_DATE": "15-May",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.4
+  },
+  {
+    "REF_DATE": "15-Jun",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.1
+  },
+  {
+    "REF_DATE": "15-Jul",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.1
+  },
+  {
+    "REF_DATE": "15-Aug",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "15-Sep",
+    "GEO": "Prince Edward Island",
+    "VALUE": 99
+  },
+  {
+    "REF_DATE": "15-Oct",
+    "GEO": "Prince Edward Island",
+    "VALUE": 99
+  },
+  {
+    "REF_DATE": "15-Nov",
+    "GEO": "Prince Edward Island",
+    "VALUE": 99.1
+  },
+  {
+    "REF_DATE": "15-Dec",
+    "GEO": "Prince Edward Island",
+    "VALUE": 99.1
+  },
+  {
+    "REF_DATE": "16-Jan",
+    "GEO": "Prince Edward Island",
+    "VALUE": 99.1
+  },
+  {
+    "REF_DATE": "16-Feb",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.3
+  },
+  {
+    "REF_DATE": "16-Mar",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.3
+  },
+  {
+    "REF_DATE": "16-Apr",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.4
+  },
+  {
+    "REF_DATE": "16-May",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "16-Jun",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "16-Jul",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "16-Aug",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "16-Sep",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "16-Oct",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "16-Nov",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "16-Dec",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "17-Jan",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "17-Feb",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "17-Mar",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "17-Apr",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "17-May",
+    "GEO": "Prince Edward Island",
+    "VALUE": 99.8
+  },
+  {
+    "REF_DATE": "17-Jun",
+    "GEO": "Prince Edward Island",
+    "VALUE": 99.7
+  },
+  {
+    "REF_DATE": "17-Jul",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.3
+  },
+  {
+    "REF_DATE": "17-Aug",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.3
+  },
+  {
+    "REF_DATE": "17-Sep",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.3
+  },
+  {
+    "REF_DATE": "17-Oct",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.3
+  },
+  {
+    "REF_DATE": "17-Nov",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.3
+  },
+  {
+    "REF_DATE": "17-Dec",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.3
+  },
+  {
+    "REF_DATE": "18-Jan",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.3
+  },
+  {
+    "REF_DATE": "18-Feb",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.3
+  },
+  {
+    "REF_DATE": "18-Mar",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.5
+  },
+  {
+    "REF_DATE": "18-Apr",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.5
+  },
+  {
+    "REF_DATE": "18-May",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.5
+  },
+  {
+    "REF_DATE": "18-Jun",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.4
+  },
+  {
+    "REF_DATE": "18-Jul",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.5
+  },
+  {
+    "REF_DATE": "18-Aug",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.5
+  },
+  {
+    "REF_DATE": "18-Sep",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.3
+  },
+  {
+    "REF_DATE": "18-Oct",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100.2
+  },
+  {
+    "REF_DATE": "18-Nov",
+    "GEO": "Prince Edward Island",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "8-Jan",
+    "GEO": "Nova Scotia",
+    "VALUE": 88.4
+  },
+  {
+    "REF_DATE": "8-Feb",
+    "GEO": "Nova Scotia",
+    "VALUE": 88.4
+  },
+  {
+    "REF_DATE": "8-Mar",
+    "GEO": "Nova Scotia",
+    "VALUE": 89.5
+  },
+  {
+    "REF_DATE": "8-Apr",
+    "GEO": "Nova Scotia",
+    "VALUE": 89.5
+  },
+  {
+    "REF_DATE": "8-May",
+    "GEO": "Nova Scotia",
+    "VALUE": 89.9
+  },
+  {
+    "REF_DATE": "8-Jun",
+    "GEO": "Nova Scotia",
+    "VALUE": 90.3
+  },
+  {
+    "REF_DATE": "8-Jul",
+    "GEO": "Nova Scotia",
+    "VALUE": 90.5
+  },
+  {
+    "REF_DATE": "8-Aug",
+    "GEO": "Nova Scotia",
+    "VALUE": 90.5
+  },
+  {
+    "REF_DATE": "8-Sep",
+    "GEO": "Nova Scotia",
+    "VALUE": 90.6
+  },
+  {
+    "REF_DATE": "8-Oct",
+    "GEO": "Nova Scotia",
+    "VALUE": 90.7
+  },
+  {
+    "REF_DATE": "8-Nov",
+    "GEO": "Nova Scotia",
+    "VALUE": 90.7
+  },
+  {
+    "REF_DATE": "8-Dec",
+    "GEO": "Nova Scotia",
+    "VALUE": 90.8
+  },
+  {
+    "REF_DATE": "9-Jan",
+    "GEO": "Nova Scotia",
+    "VALUE": 90.8
+  },
+  {
+    "REF_DATE": "9-Feb",
+    "GEO": "Nova Scotia",
+    "VALUE": 90.9
+  },
+  {
+    "REF_DATE": "9-Mar",
+    "GEO": "Nova Scotia",
+    "VALUE": 90.9
+  },
+  {
+    "REF_DATE": "9-Apr",
+    "GEO": "Nova Scotia",
+    "VALUE": 90.9
+  },
+  {
+    "REF_DATE": "9-May",
+    "GEO": "Nova Scotia",
+    "VALUE": 90.9
+  },
+  {
+    "REF_DATE": "9-Jun",
+    "GEO": "Nova Scotia",
+    "VALUE": 90.9
+  },
+  {
+    "REF_DATE": "9-Jul",
+    "GEO": "Nova Scotia",
+    "VALUE": 90.9
+  },
+  {
+    "REF_DATE": "9-Aug",
+    "GEO": "Nova Scotia",
+    "VALUE": 90.9
+  },
+  {
+    "REF_DATE": "9-Sep",
+    "GEO": "Nova Scotia",
+    "VALUE": 91.1
+  },
+  {
+    "REF_DATE": "9-Oct",
+    "GEO": "Nova Scotia",
+    "VALUE": 91.1
+  },
+  {
+    "REF_DATE": "9-Nov",
+    "GEO": "Nova Scotia",
+    "VALUE": 91.3
+  },
+  {
+    "REF_DATE": "9-Dec",
+    "GEO": "Nova Scotia",
+    "VALUE": 91.3
+  },
+  {
+    "REF_DATE": "10-Jan",
+    "GEO": "Nova Scotia",
+    "VALUE": 91.4
+  },
+  {
+    "REF_DATE": "10-Feb",
+    "GEO": "Nova Scotia",
+    "VALUE": 91.4
+  },
+  {
+    "REF_DATE": "10-Mar",
+    "GEO": "Nova Scotia",
+    "VALUE": 91.5
+  },
+  {
+    "REF_DATE": "10-Apr",
+    "GEO": "Nova Scotia",
+    "VALUE": 91.5
+  },
+  {
+    "REF_DATE": "10-May",
+    "GEO": "Nova Scotia",
+    "VALUE": 91.6
+  },
+  {
+    "REF_DATE": "10-Jun",
+    "GEO": "Nova Scotia",
+    "VALUE": 91.7
+  },
+  {
+    "REF_DATE": "10-Jul",
+    "GEO": "Nova Scotia",
+    "VALUE": 91.7
+  },
+  {
+    "REF_DATE": "10-Aug",
+    "GEO": "Nova Scotia",
+    "VALUE": 91.7
+  },
+  {
+    "REF_DATE": "10-Sep",
+    "GEO": "Nova Scotia",
+    "VALUE": 91.7
+  },
+  {
+    "REF_DATE": "10-Oct",
+    "GEO": "Nova Scotia",
+    "VALUE": 91.7
+  },
+  {
+    "REF_DATE": "10-Nov",
+    "GEO": "Nova Scotia",
+    "VALUE": 92.8
+  },
+  {
+    "REF_DATE": "10-Dec",
+    "GEO": "Nova Scotia",
+    "VALUE": 93.1
+  },
+  {
+    "REF_DATE": "11-Jan",
+    "GEO": "Nova Scotia",
+    "VALUE": 93.1
+  },
+  {
+    "REF_DATE": "11-Feb",
+    "GEO": "Nova Scotia",
+    "VALUE": 93.1
+  },
+  {
+    "REF_DATE": "11-Mar",
+    "GEO": "Nova Scotia",
+    "VALUE": 93.1
+  },
+  {
+    "REF_DATE": "11-Apr",
+    "GEO": "Nova Scotia",
+    "VALUE": 93.1
+  },
+  {
+    "REF_DATE": "11-May",
+    "GEO": "Nova Scotia",
+    "VALUE": 93.1
+  },
+  {
+    "REF_DATE": "11-Jun",
+    "GEO": "Nova Scotia",
+    "VALUE": 93.1
+  },
+  {
+    "REF_DATE": "11-Jul",
+    "GEO": "Nova Scotia",
+    "VALUE": 93.2
+  },
+  {
+    "REF_DATE": "11-Aug",
+    "GEO": "Nova Scotia",
+    "VALUE": 93.2
+  },
+  {
+    "REF_DATE": "11-Sep",
+    "GEO": "Nova Scotia",
+    "VALUE": 93.9
+  },
+  {
+    "REF_DATE": "11-Oct",
+    "GEO": "Nova Scotia",
+    "VALUE": 93.9
+  },
+  {
+    "REF_DATE": "11-Nov",
+    "GEO": "Nova Scotia",
+    "VALUE": 93.9
+  },
+  {
+    "REF_DATE": "11-Dec",
+    "GEO": "Nova Scotia",
+    "VALUE": 93.9
+  },
+  {
+    "REF_DATE": "12-Jan",
+    "GEO": "Nova Scotia",
+    "VALUE": 93.9
+  },
+  {
+    "REF_DATE": "12-Feb",
+    "GEO": "Nova Scotia",
+    "VALUE": 95
+  },
+  {
+    "REF_DATE": "12-Mar",
+    "GEO": "Nova Scotia",
+    "VALUE": 95
+  },
+  {
+    "REF_DATE": "12-Apr",
+    "GEO": "Nova Scotia",
+    "VALUE": 95
+  },
+  {
+    "REF_DATE": "12-May",
+    "GEO": "Nova Scotia",
+    "VALUE": 95.2
+  },
+  {
+    "REF_DATE": "12-Jun",
+    "GEO": "Nova Scotia",
+    "VALUE": 95
+  },
+  {
+    "REF_DATE": "12-Jul",
+    "GEO": "Nova Scotia",
+    "VALUE": 95.5
+  },
+  {
+    "REF_DATE": "12-Aug",
+    "GEO": "Nova Scotia",
+    "VALUE": 95.9
+  },
+  {
+    "REF_DATE": "12-Sep",
+    "GEO": "Nova Scotia",
+    "VALUE": 95.8
+  },
+  {
+    "REF_DATE": "12-Oct",
+    "GEO": "Nova Scotia",
+    "VALUE": 95.8
+  },
+  {
+    "REF_DATE": "12-Nov",
+    "GEO": "Nova Scotia",
+    "VALUE": 96.3
+  },
+  {
+    "REF_DATE": "12-Dec",
+    "GEO": "Nova Scotia",
+    "VALUE": 96.5
+  },
+  {
+    "REF_DATE": "13-Jan",
+    "GEO": "Nova Scotia",
+    "VALUE": 96.6
+  },
+  {
+    "REF_DATE": "13-Feb",
+    "GEO": "Nova Scotia",
+    "VALUE": 97.6
+  },
+  {
+    "REF_DATE": "13-Mar",
+    "GEO": "Nova Scotia",
+    "VALUE": 97.6
+  },
+  {
+    "REF_DATE": "13-Apr",
+    "GEO": "Nova Scotia",
+    "VALUE": 97.6
+  },
+  {
+    "REF_DATE": "13-May",
+    "GEO": "Nova Scotia",
+    "VALUE": 97.9
+  },
+  {
+    "REF_DATE": "13-Jun",
+    "GEO": "Nova Scotia",
+    "VALUE": 97.8
+  },
+  {
+    "REF_DATE": "13-Jul",
+    "GEO": "Nova Scotia",
+    "VALUE": 98.2
+  },
+  {
+    "REF_DATE": "13-Aug",
+    "GEO": "Nova Scotia",
+    "VALUE": 98.1
+  },
+  {
+    "REF_DATE": "13-Sep",
+    "GEO": "Nova Scotia",
+    "VALUE": 98.2
+  },
+  {
+    "REF_DATE": "13-Oct",
+    "GEO": "Nova Scotia",
+    "VALUE": 98.2
+  },
+  {
+    "REF_DATE": "13-Nov",
+    "GEO": "Nova Scotia",
+    "VALUE": 98.2
+  },
+  {
+    "REF_DATE": "13-Dec",
+    "GEO": "Nova Scotia",
+    "VALUE": 98.1
+  },
+  {
+    "REF_DATE": "14-Jan",
+    "GEO": "Nova Scotia",
+    "VALUE": 98.1
+  },
+  {
+    "REF_DATE": "14-Feb",
+    "GEO": "Nova Scotia",
+    "VALUE": 98
+  },
+  {
+    "REF_DATE": "14-Mar",
+    "GEO": "Nova Scotia",
+    "VALUE": 98.1
+  },
+  {
+    "REF_DATE": "14-Apr",
+    "GEO": "Nova Scotia",
+    "VALUE": 98.1
+  },
+  {
+    "REF_DATE": "14-May",
+    "GEO": "Nova Scotia",
+    "VALUE": 98.1
+  },
+  {
+    "REF_DATE": "14-Jun",
+    "GEO": "Nova Scotia",
+    "VALUE": 98
+  },
+  {
+    "REF_DATE": "14-Jul",
+    "GEO": "Nova Scotia",
+    "VALUE": 98
+  },
+  {
+    "REF_DATE": "14-Aug",
+    "GEO": "Nova Scotia",
+    "VALUE": 98
+  },
+  {
+    "REF_DATE": "14-Sep",
+    "GEO": "Nova Scotia",
+    "VALUE": 98.3
+  },
+  {
+    "REF_DATE": "14-Oct",
+    "GEO": "Nova Scotia",
+    "VALUE": 98.4
+  },
+  {
+    "REF_DATE": "14-Nov",
+    "GEO": "Nova Scotia",
+    "VALUE": 98.4
+  },
+  {
+    "REF_DATE": "14-Dec",
+    "GEO": "Nova Scotia",
+    "VALUE": 98.4
+  },
+  {
+    "REF_DATE": "15-Jan",
+    "GEO": "Nova Scotia",
+    "VALUE": 98.4
+  },
+  {
+    "REF_DATE": "15-Feb",
+    "GEO": "Nova Scotia",
+    "VALUE": 98.8
+  },
+  {
+    "REF_DATE": "15-Mar",
+    "GEO": "Nova Scotia",
+    "VALUE": 98.9
+  },
+  {
+    "REF_DATE": "15-Apr",
+    "GEO": "Nova Scotia",
+    "VALUE": 98.9
+  },
+  {
+    "REF_DATE": "15-May",
+    "GEO": "Nova Scotia",
+    "VALUE": 99
+  },
+  {
+    "REF_DATE": "15-Jun",
+    "GEO": "Nova Scotia",
+    "VALUE": 99.1
+  },
+  {
+    "REF_DATE": "15-Jul",
+    "GEO": "Nova Scotia",
+    "VALUE": 99
+  },
+  {
+    "REF_DATE": "15-Aug",
+    "GEO": "Nova Scotia",
+    "VALUE": 99
+  },
+  {
+    "REF_DATE": "15-Sep",
+    "GEO": "Nova Scotia",
+    "VALUE": 99
+  },
+  {
+    "REF_DATE": "15-Oct",
+    "GEO": "Nova Scotia",
+    "VALUE": 99.1
+  },
+  {
+    "REF_DATE": "15-Nov",
+    "GEO": "Nova Scotia",
+    "VALUE": 98.7
+  },
+  {
+    "REF_DATE": "15-Dec",
+    "GEO": "Nova Scotia",
+    "VALUE": 98.9
+  },
+  {
+    "REF_DATE": "16-Jan",
+    "GEO": "Nova Scotia",
+    "VALUE": 98.9
+  },
+  {
+    "REF_DATE": "16-Feb",
+    "GEO": "Nova Scotia",
+    "VALUE": 98.9
+  },
+  {
+    "REF_DATE": "16-Mar",
+    "GEO": "Nova Scotia",
+    "VALUE": 98.9
+  },
+  {
+    "REF_DATE": "16-Apr",
+    "GEO": "Nova Scotia",
+    "VALUE": 98.9
+  },
+  {
+    "REF_DATE": "16-May",
+    "GEO": "Nova Scotia",
+    "VALUE": 99
+  },
+  {
+    "REF_DATE": "16-Jun",
+    "GEO": "Nova Scotia",
+    "VALUE": 99
+  },
+  {
+    "REF_DATE": "16-Jul",
+    "GEO": "Nova Scotia",
+    "VALUE": 99.3
+  },
+  {
+    "REF_DATE": "16-Aug",
+    "GEO": "Nova Scotia",
+    "VALUE": 99.3
+  },
+  {
+    "REF_DATE": "16-Sep",
+    "GEO": "Nova Scotia",
+    "VALUE": 99.3
+  },
+  {
+    "REF_DATE": "16-Oct",
+    "GEO": "Nova Scotia",
+    "VALUE": 99.8
+  },
+  {
+    "REF_DATE": "16-Nov",
+    "GEO": "Nova Scotia",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "16-Dec",
+    "GEO": "Nova Scotia",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "17-Jan",
+    "GEO": "Nova Scotia",
+    "VALUE": 100.2
+  },
+  {
+    "REF_DATE": "17-Feb",
+    "GEO": "Nova Scotia",
+    "VALUE": 100.2
+  },
+  {
+    "REF_DATE": "17-Mar",
+    "GEO": "Nova Scotia",
+    "VALUE": 100.2
+  },
+  {
+    "REF_DATE": "17-Apr",
+    "GEO": "Nova Scotia",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "17-May",
+    "GEO": "Nova Scotia",
+    "VALUE": 100.4
+  },
+  {
+    "REF_DATE": "17-Jun",
+    "GEO": "Nova Scotia",
+    "VALUE": 100.4
+  },
+  {
+    "REF_DATE": "17-Jul",
+    "GEO": "Nova Scotia",
+    "VALUE": 100.8
+  },
+  {
+    "REF_DATE": "17-Aug",
+    "GEO": "Nova Scotia",
+    "VALUE": 100.7
+  },
+  {
+    "REF_DATE": "17-Sep",
+    "GEO": "Nova Scotia",
+    "VALUE": 100.8
+  },
+  {
+    "REF_DATE": "17-Oct",
+    "GEO": "Nova Scotia",
+    "VALUE": 101.1
+  },
+  {
+    "REF_DATE": "17-Nov",
+    "GEO": "Nova Scotia",
+    "VALUE": 101.1
+  },
+  {
+    "REF_DATE": "17-Dec",
+    "GEO": "Nova Scotia",
+    "VALUE": 101
+  },
+  {
+    "REF_DATE": "18-Jan",
+    "GEO": "Nova Scotia",
+    "VALUE": 101
+  },
+  {
+    "REF_DATE": "18-Feb",
+    "GEO": "Nova Scotia",
+    "VALUE": 101
+  },
+  {
+    "REF_DATE": "18-Mar",
+    "GEO": "Nova Scotia",
+    "VALUE": 101.5
+  },
+  {
+    "REF_DATE": "18-Apr",
+    "GEO": "Nova Scotia",
+    "VALUE": 101.9
+  },
+  {
+    "REF_DATE": "18-May",
+    "GEO": "Nova Scotia",
+    "VALUE": 101.8
+  },
+  {
+    "REF_DATE": "18-Jun",
+    "GEO": "Nova Scotia",
+    "VALUE": 101.8
+  },
+  {
+    "REF_DATE": "18-Jul",
+    "GEO": "Nova Scotia",
+    "VALUE": 102
+  },
+  {
+    "REF_DATE": "18-Aug",
+    "GEO": "Nova Scotia",
+    "VALUE": 102
+  },
+  {
+    "REF_DATE": "18-Sep",
+    "GEO": "Nova Scotia",
+    "VALUE": 101.7
+  },
+  {
+    "REF_DATE": "18-Oct",
+    "GEO": "Nova Scotia",
+    "VALUE": 101.6
+  },
+  {
+    "REF_DATE": "18-Nov",
+    "GEO": "Nova Scotia",
+    "VALUE": 101.6
+  },
+  {
+    "REF_DATE": "8-Jan",
+    "GEO": "New Brunswick",
+    "VALUE": 92.4
+  },
+  {
+    "REF_DATE": "8-Feb",
+    "GEO": "New Brunswick",
+    "VALUE": 92
+  },
+  {
+    "REF_DATE": "8-Mar",
+    "GEO": "New Brunswick",
+    "VALUE": 92.3
+  },
+  {
+    "REF_DATE": "8-Apr",
+    "GEO": "New Brunswick",
+    "VALUE": 92.3
+  },
+  {
+    "REF_DATE": "8-May",
+    "GEO": "New Brunswick",
+    "VALUE": 92.3
+  },
+  {
+    "REF_DATE": "8-Jun",
+    "GEO": "New Brunswick",
+    "VALUE": 92.6
+  },
+  {
+    "REF_DATE": "8-Jul",
+    "GEO": "New Brunswick",
+    "VALUE": 93.5
+  },
+  {
+    "REF_DATE": "8-Aug",
+    "GEO": "New Brunswick",
+    "VALUE": 94
+  },
+  {
+    "REF_DATE": "8-Sep",
+    "GEO": "New Brunswick",
+    "VALUE": 93.6
+  },
+  {
+    "REF_DATE": "8-Oct",
+    "GEO": "New Brunswick",
+    "VALUE": 93.6
+  },
+  {
+    "REF_DATE": "8-Nov",
+    "GEO": "New Brunswick",
+    "VALUE": 94.3
+  },
+  {
+    "REF_DATE": "8-Dec",
+    "GEO": "New Brunswick",
+    "VALUE": 94.3
+  },
+  {
+    "REF_DATE": "9-Jan",
+    "GEO": "New Brunswick",
+    "VALUE": 95.6
+  },
+  {
+    "REF_DATE": "9-Feb",
+    "GEO": "New Brunswick",
+    "VALUE": 95.9
+  },
+  {
+    "REF_DATE": "9-Mar",
+    "GEO": "New Brunswick",
+    "VALUE": 95.9
+  },
+  {
+    "REF_DATE": "9-Apr",
+    "GEO": "New Brunswick",
+    "VALUE": 96
+  },
+  {
+    "REF_DATE": "9-May",
+    "GEO": "New Brunswick",
+    "VALUE": 96.1
+  },
+  {
+    "REF_DATE": "9-Jun",
+    "GEO": "New Brunswick",
+    "VALUE": 95.9
+  },
+  {
+    "REF_DATE": "9-Jul",
+    "GEO": "New Brunswick",
+    "VALUE": 96
+  },
+  {
+    "REF_DATE": "9-Aug",
+    "GEO": "New Brunswick",
+    "VALUE": 96.1
+  },
+  {
+    "REF_DATE": "9-Sep",
+    "GEO": "New Brunswick",
+    "VALUE": 96.5
+  },
+  {
+    "REF_DATE": "9-Oct",
+    "GEO": "New Brunswick",
+    "VALUE": 96.5
+  },
+  {
+    "REF_DATE": "9-Nov",
+    "GEO": "New Brunswick",
+    "VALUE": 96.6
+  },
+  {
+    "REF_DATE": "9-Dec",
+    "GEO": "New Brunswick",
+    "VALUE": 96.5
+  },
+  {
+    "REF_DATE": "10-Jan",
+    "GEO": "New Brunswick",
+    "VALUE": 96.4
+  },
+  {
+    "REF_DATE": "10-Feb",
+    "GEO": "New Brunswick",
+    "VALUE": 96.5
+  },
+  {
+    "REF_DATE": "10-Mar",
+    "GEO": "New Brunswick",
+    "VALUE": 96.5
+  },
+  {
+    "REF_DATE": "10-Apr",
+    "GEO": "New Brunswick",
+    "VALUE": 96.5
+  },
+  {
+    "REF_DATE": "10-May",
+    "GEO": "New Brunswick",
+    "VALUE": 97.1
+  },
+  {
+    "REF_DATE": "10-Jun",
+    "GEO": "New Brunswick",
+    "VALUE": 98.4
+  },
+  {
+    "REF_DATE": "10-Jul",
+    "GEO": "New Brunswick",
+    "VALUE": 98.3
+  },
+  {
+    "REF_DATE": "10-Aug",
+    "GEO": "New Brunswick",
+    "VALUE": 98.3
+  },
+  {
+    "REF_DATE": "10-Sep",
+    "GEO": "New Brunswick",
+    "VALUE": 98.4
+  },
+  {
+    "REF_DATE": "10-Oct",
+    "GEO": "New Brunswick",
+    "VALUE": 98.4
+  },
+  {
+    "REF_DATE": "10-Nov",
+    "GEO": "New Brunswick",
+    "VALUE": 98.2
+  },
+  {
+    "REF_DATE": "10-Dec",
+    "GEO": "New Brunswick",
+    "VALUE": 98.2
+  },
+  {
+    "REF_DATE": "11-Jan",
+    "GEO": "New Brunswick",
+    "VALUE": 98
+  },
+  {
+    "REF_DATE": "11-Feb",
+    "GEO": "New Brunswick",
+    "VALUE": 97.9
+  },
+  {
+    "REF_DATE": "11-Mar",
+    "GEO": "New Brunswick",
+    "VALUE": 98.3
+  },
+  {
+    "REF_DATE": "11-Apr",
+    "GEO": "New Brunswick",
+    "VALUE": 97.8
+  },
+  {
+    "REF_DATE": "11-May",
+    "GEO": "New Brunswick",
+    "VALUE": 97.8
+  },
+  {
+    "REF_DATE": "11-Jun",
+    "GEO": "New Brunswick",
+    "VALUE": 98
+  },
+  {
+    "REF_DATE": "11-Jul",
+    "GEO": "New Brunswick",
+    "VALUE": 98.2
+  },
+  {
+    "REF_DATE": "11-Aug",
+    "GEO": "New Brunswick",
+    "VALUE": 98.8
+  },
+  {
+    "REF_DATE": "11-Sep",
+    "GEO": "New Brunswick",
+    "VALUE": 98.4
+  },
+  {
+    "REF_DATE": "11-Oct",
+    "GEO": "New Brunswick",
+    "VALUE": 98.4
+  },
+  {
+    "REF_DATE": "11-Nov",
+    "GEO": "New Brunswick",
+    "VALUE": 98.4
+  },
+  {
+    "REF_DATE": "11-Dec",
+    "GEO": "New Brunswick",
+    "VALUE": 98.4
+  },
+  {
+    "REF_DATE": "12-Jan",
+    "GEO": "New Brunswick",
+    "VALUE": 98.4
+  },
+  {
+    "REF_DATE": "12-Feb",
+    "GEO": "New Brunswick",
+    "VALUE": 98.1
+  },
+  {
+    "REF_DATE": "12-Mar",
+    "GEO": "New Brunswick",
+    "VALUE": 98.1
+  },
+  {
+    "REF_DATE": "12-Apr",
+    "GEO": "New Brunswick",
+    "VALUE": 98.1
+  },
+  {
+    "REF_DATE": "12-May",
+    "GEO": "New Brunswick",
+    "VALUE": 97.9
+  },
+  {
+    "REF_DATE": "12-Jun",
+    "GEO": "New Brunswick",
+    "VALUE": 97.9
+  },
+  {
+    "REF_DATE": "12-Jul",
+    "GEO": "New Brunswick",
+    "VALUE": 97.8
+  },
+  {
+    "REF_DATE": "12-Aug",
+    "GEO": "New Brunswick",
+    "VALUE": 97.9
+  },
+  {
+    "REF_DATE": "12-Sep",
+    "GEO": "New Brunswick",
+    "VALUE": 98.3
+  },
+  {
+    "REF_DATE": "12-Oct",
+    "GEO": "New Brunswick",
+    "VALUE": 98.3
+  },
+  {
+    "REF_DATE": "12-Nov",
+    "GEO": "New Brunswick",
+    "VALUE": 98.1
+  },
+  {
+    "REF_DATE": "12-Dec",
+    "GEO": "New Brunswick",
+    "VALUE": 98.1
+  },
+  {
+    "REF_DATE": "13-Jan",
+    "GEO": "New Brunswick",
+    "VALUE": 98
+  },
+  {
+    "REF_DATE": "13-Feb",
+    "GEO": "New Brunswick",
+    "VALUE": 98.2
+  },
+  {
+    "REF_DATE": "13-Mar",
+    "GEO": "New Brunswick",
+    "VALUE": 98.4
+  },
+  {
+    "REF_DATE": "13-Apr",
+    "GEO": "New Brunswick",
+    "VALUE": 98.3
+  },
+  {
+    "REF_DATE": "13-May",
+    "GEO": "New Brunswick",
+    "VALUE": 98.4
+  },
+  {
+    "REF_DATE": "13-Jun",
+    "GEO": "New Brunswick",
+    "VALUE": 98.4
+  },
+  {
+    "REF_DATE": "13-Jul",
+    "GEO": "New Brunswick",
+    "VALUE": 98.4
+  },
+  {
+    "REF_DATE": "13-Aug",
+    "GEO": "New Brunswick",
+    "VALUE": 98.4
+  },
+  {
+    "REF_DATE": "13-Sep",
+    "GEO": "New Brunswick",
+    "VALUE": 98.4
+  },
+  {
+    "REF_DATE": "13-Oct",
+    "GEO": "New Brunswick",
+    "VALUE": 98.5
+  },
+  {
+    "REF_DATE": "13-Nov",
+    "GEO": "New Brunswick",
+    "VALUE": 98.5
+  },
+  {
+    "REF_DATE": "13-Dec",
+    "GEO": "New Brunswick",
+    "VALUE": 98.4
+  },
+  {
+    "REF_DATE": "14-Jan",
+    "GEO": "New Brunswick",
+    "VALUE": 98.4
+  },
+  {
+    "REF_DATE": "14-Feb",
+    "GEO": "New Brunswick",
+    "VALUE": 98.3
+  },
+  {
+    "REF_DATE": "14-Mar",
+    "GEO": "New Brunswick",
+    "VALUE": 98.3
+  },
+  {
+    "REF_DATE": "14-Apr",
+    "GEO": "New Brunswick",
+    "VALUE": 98.5
+  },
+  {
+    "REF_DATE": "14-May",
+    "GEO": "New Brunswick",
+    "VALUE": 98.5
+  },
+  {
+    "REF_DATE": "14-Jun",
+    "GEO": "New Brunswick",
+    "VALUE": 98.5
+  },
+  {
+    "REF_DATE": "14-Jul",
+    "GEO": "New Brunswick",
+    "VALUE": 98.3
+  },
+  {
+    "REF_DATE": "14-Aug",
+    "GEO": "New Brunswick",
+    "VALUE": 98.1
+  },
+  {
+    "REF_DATE": "14-Sep",
+    "GEO": "New Brunswick",
+    "VALUE": 98.1
+  },
+  {
+    "REF_DATE": "14-Oct",
+    "GEO": "New Brunswick",
+    "VALUE": 98.1
+  },
+  {
+    "REF_DATE": "14-Nov",
+    "GEO": "New Brunswick",
+    "VALUE": 98
+  },
+  {
+    "REF_DATE": "14-Dec",
+    "GEO": "New Brunswick",
+    "VALUE": 98
+  },
+  {
+    "REF_DATE": "15-Jan",
+    "GEO": "New Brunswick",
+    "VALUE": 98
+  },
+  {
+    "REF_DATE": "15-Feb",
+    "GEO": "New Brunswick",
+    "VALUE": 98
+  },
+  {
+    "REF_DATE": "15-Mar",
+    "GEO": "New Brunswick",
+    "VALUE": 97.8
+  },
+  {
+    "REF_DATE": "15-Apr",
+    "GEO": "New Brunswick",
+    "VALUE": 97.8
+  },
+  {
+    "REF_DATE": "15-May",
+    "GEO": "New Brunswick",
+    "VALUE": 97.8
+  },
+  {
+    "REF_DATE": "15-Jun",
+    "GEO": "New Brunswick",
+    "VALUE": 98.2
+  },
+  {
+    "REF_DATE": "15-Jul",
+    "GEO": "New Brunswick",
+    "VALUE": 98.3
+  },
+  {
+    "REF_DATE": "15-Aug",
+    "GEO": "New Brunswick",
+    "VALUE": 98.3
+  },
+  {
+    "REF_DATE": "15-Sep",
+    "GEO": "New Brunswick",
+    "VALUE": 98.3
+  },
+  {
+    "REF_DATE": "15-Oct",
+    "GEO": "New Brunswick",
+    "VALUE": 98.3
+  },
+  {
+    "REF_DATE": "15-Nov",
+    "GEO": "New Brunswick",
+    "VALUE": 98.4
+  },
+  {
+    "REF_DATE": "15-Dec",
+    "GEO": "New Brunswick",
+    "VALUE": 98.4
+  },
+  {
+    "REF_DATE": "16-Jan",
+    "GEO": "New Brunswick",
+    "VALUE": 98.3
+  },
+  {
+    "REF_DATE": "16-Feb",
+    "GEO": "New Brunswick",
+    "VALUE": 98.3
+  },
+  {
+    "REF_DATE": "16-Mar",
+    "GEO": "New Brunswick",
+    "VALUE": 98.3
+  },
+  {
+    "REF_DATE": "16-Apr",
+    "GEO": "New Brunswick",
+    "VALUE": 98.3
+  },
+  {
+    "REF_DATE": "16-May",
+    "GEO": "New Brunswick",
+    "VALUE": 98.3
+  },
+  {
+    "REF_DATE": "16-Jun",
+    "GEO": "New Brunswick",
+    "VALUE": 98.3
+  },
+  {
+    "REF_DATE": "16-Jul",
+    "GEO": "New Brunswick",
+    "VALUE": 98.3
+  },
+  {
+    "REF_DATE": "16-Aug",
+    "GEO": "New Brunswick",
+    "VALUE": 98.4
+  },
+  {
+    "REF_DATE": "16-Sep",
+    "GEO": "New Brunswick",
+    "VALUE": 99.7
+  },
+  {
+    "REF_DATE": "16-Oct",
+    "GEO": "New Brunswick",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "16-Nov",
+    "GEO": "New Brunswick",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "16-Dec",
+    "GEO": "New Brunswick",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "17-Jan",
+    "GEO": "New Brunswick",
+    "VALUE": 100.2
+  },
+  {
+    "REF_DATE": "17-Feb",
+    "GEO": "New Brunswick",
+    "VALUE": 100.1
+  },
+  {
+    "REF_DATE": "17-Mar",
+    "GEO": "New Brunswick",
+    "VALUE": 100.1
+  },
+  {
+    "REF_DATE": "17-Apr",
+    "GEO": "New Brunswick",
+    "VALUE": 100.1
+  },
+  {
+    "REF_DATE": "17-May",
+    "GEO": "New Brunswick",
+    "VALUE": 100.1
+  },
+  {
+    "REF_DATE": "17-Jun",
+    "GEO": "New Brunswick",
+    "VALUE": 100.1
+  },
+  {
+    "REF_DATE": "17-Jul",
+    "GEO": "New Brunswick",
+    "VALUE": 100.5
+  },
+  {
+    "REF_DATE": "17-Aug",
+    "GEO": "New Brunswick",
+    "VALUE": 100.5
+  },
+  {
+    "REF_DATE": "17-Sep",
+    "GEO": "New Brunswick",
+    "VALUE": 100.5
+  },
+  {
+    "REF_DATE": "17-Oct",
+    "GEO": "New Brunswick",
+    "VALUE": 100.5
+  },
+  {
+    "REF_DATE": "17-Nov",
+    "GEO": "New Brunswick",
+    "VALUE": 100.8
+  },
+  {
+    "REF_DATE": "17-Dec",
+    "GEO": "New Brunswick",
+    "VALUE": 101
+  },
+  {
+    "REF_DATE": "18-Jan",
+    "GEO": "New Brunswick",
+    "VALUE": 101.2
+  },
+  {
+    "REF_DATE": "18-Feb",
+    "GEO": "New Brunswick",
+    "VALUE": 101.2
+  },
+  {
+    "REF_DATE": "18-Mar",
+    "GEO": "New Brunswick",
+    "VALUE": 101.2
+  },
+  {
+    "REF_DATE": "18-Apr",
+    "GEO": "New Brunswick",
+    "VALUE": 101.1
+  },
+  {
+    "REF_DATE": "18-May",
+    "GEO": "New Brunswick",
+    "VALUE": 101.1
+  },
+  {
+    "REF_DATE": "18-Jun",
+    "GEO": "New Brunswick",
+    "VALUE": 101.1
+  },
+  {
+    "REF_DATE": "18-Jul",
+    "GEO": "New Brunswick",
+    "VALUE": 100.9
+  },
+  {
+    "REF_DATE": "18-Aug",
+    "GEO": "New Brunswick",
+    "VALUE": 101.1
+  },
+  {
+    "REF_DATE": "18-Sep",
+    "GEO": "New Brunswick",
+    "VALUE": 101.1
+  },
+  {
+    "REF_DATE": "18-Oct",
+    "GEO": "New Brunswick",
+    "VALUE": 100.9
+  },
+  {
+    "REF_DATE": "18-Nov",
+    "GEO": "New Brunswick",
+    "VALUE": 100.9
+  },
+  {
+    "REF_DATE": "8-Jan",
+    "GEO": "Quebec",
+    "VALUE": 85.8
+  },
+  {
+    "REF_DATE": "8-Feb",
+    "GEO": "Quebec",
+    "VALUE": 86.6
+  },
+  {
+    "REF_DATE": "8-Mar",
+    "GEO": "Quebec",
+    "VALUE": 86.6
+  },
+  {
+    "REF_DATE": "8-Apr",
+    "GEO": "Quebec",
+    "VALUE": 86.6
+  },
+  {
+    "REF_DATE": "8-May",
+    "GEO": "Quebec",
+    "VALUE": 87.9
+  },
+  {
+    "REF_DATE": "8-Jun",
+    "GEO": "Quebec",
+    "VALUE": 88
+  },
+  {
+    "REF_DATE": "8-Jul",
+    "GEO": "Quebec",
+    "VALUE": 88.1
+  },
+  {
+    "REF_DATE": "8-Aug",
+    "GEO": "Quebec",
+    "VALUE": 88.8
+  },
+  {
+    "REF_DATE": "8-Sep",
+    "GEO": "Quebec",
+    "VALUE": 88.7
+  },
+  {
+    "REF_DATE": "8-Oct",
+    "GEO": "Quebec",
+    "VALUE": 88.7
+  },
+  {
+    "REF_DATE": "8-Nov",
+    "GEO": "Quebec",
+    "VALUE": 89.2
+  },
+  {
+    "REF_DATE": "8-Dec",
+    "GEO": "Quebec",
+    "VALUE": 89.1
+  },
+  {
+    "REF_DATE": "9-Jan",
+    "GEO": "Quebec",
+    "VALUE": 89.3
+  },
+  {
+    "REF_DATE": "9-Feb",
+    "GEO": "Quebec",
+    "VALUE": 90
+  },
+  {
+    "REF_DATE": "9-Mar",
+    "GEO": "Quebec",
+    "VALUE": 90.2
+  },
+  {
+    "REF_DATE": "9-Apr",
+    "GEO": "Quebec",
+    "VALUE": 90.2
+  },
+  {
+    "REF_DATE": "9-May",
+    "GEO": "Quebec",
+    "VALUE": 90.4
+  },
+  {
+    "REF_DATE": "9-Jun",
+    "GEO": "Quebec",
+    "VALUE": 90.5
+  },
+  {
+    "REF_DATE": "9-Jul",
+    "GEO": "Quebec",
+    "VALUE": 90.5
+  },
+  {
+    "REF_DATE": "9-Aug",
+    "GEO": "Quebec",
+    "VALUE": 90.7
+  },
+  {
+    "REF_DATE": "9-Sep",
+    "GEO": "Quebec",
+    "VALUE": 90.8
+  },
+  {
+    "REF_DATE": "9-Oct",
+    "GEO": "Quebec",
+    "VALUE": 91.2
+  },
+  {
+    "REF_DATE": "9-Nov",
+    "GEO": "Quebec",
+    "VALUE": 91.6
+  },
+  {
+    "REF_DATE": "9-Dec",
+    "GEO": "Quebec",
+    "VALUE": 91.8
+  },
+  {
+    "REF_DATE": "10-Jan",
+    "GEO": "Quebec",
+    "VALUE": 91.8
+  },
+  {
+    "REF_DATE": "10-Feb",
+    "GEO": "Quebec",
+    "VALUE": 92
+  },
+  {
+    "REF_DATE": "10-Mar",
+    "GEO": "Quebec",
+    "VALUE": 92.8
+  },
+  {
+    "REF_DATE": "10-Apr",
+    "GEO": "Quebec",
+    "VALUE": 92.8
+  },
+  {
+    "REF_DATE": "10-May",
+    "GEO": "Quebec",
+    "VALUE": 93.1
+  },
+  {
+    "REF_DATE": "10-Jun",
+    "GEO": "Quebec",
+    "VALUE": 93.2
+  },
+  {
+    "REF_DATE": "10-Jul",
+    "GEO": "Quebec",
+    "VALUE": 93.2
+  },
+  {
+    "REF_DATE": "10-Aug",
+    "GEO": "Quebec",
+    "VALUE": 93.4
+  },
+  {
+    "REF_DATE": "10-Sep",
+    "GEO": "Quebec",
+    "VALUE": 94.6
+  },
+  {
+    "REF_DATE": "10-Oct",
+    "GEO": "Quebec",
+    "VALUE": 94.7
+  },
+  {
+    "REF_DATE": "10-Nov",
+    "GEO": "Quebec",
+    "VALUE": 94.9
+  },
+  {
+    "REF_DATE": "10-Dec",
+    "GEO": "Quebec",
+    "VALUE": 94.6
+  },
+  {
+    "REF_DATE": "11-Jan",
+    "GEO": "Quebec",
+    "VALUE": 95
+  },
+  {
+    "REF_DATE": "11-Feb",
+    "GEO": "Quebec",
+    "VALUE": 95.3
+  },
+  {
+    "REF_DATE": "11-Mar",
+    "GEO": "Quebec",
+    "VALUE": 95.3
+  },
+  {
+    "REF_DATE": "11-Apr",
+    "GEO": "Quebec",
+    "VALUE": 95.6
+  },
+  {
+    "REF_DATE": "11-May",
+    "GEO": "Quebec",
+    "VALUE": 96
+  },
+  {
+    "REF_DATE": "11-Jun",
+    "GEO": "Quebec",
+    "VALUE": 95.9
+  },
+  {
+    "REF_DATE": "11-Jul",
+    "GEO": "Quebec",
+    "VALUE": 95.9
+  },
+  {
+    "REF_DATE": "11-Aug",
+    "GEO": "Quebec",
+    "VALUE": 96
+  },
+  {
+    "REF_DATE": "11-Sep",
+    "GEO": "Quebec",
+    "VALUE": 96.1
+  },
+  {
+    "REF_DATE": "11-Oct",
+    "GEO": "Quebec",
+    "VALUE": 96.1
+  },
+  {
+    "REF_DATE": "11-Nov",
+    "GEO": "Quebec",
+    "VALUE": 96.6
+  },
+  {
+    "REF_DATE": "11-Dec",
+    "GEO": "Quebec",
+    "VALUE": 96.8
+  },
+  {
+    "REF_DATE": "12-Jan",
+    "GEO": "Quebec",
+    "VALUE": 96.8
+  },
+  {
+    "REF_DATE": "12-Feb",
+    "GEO": "Quebec",
+    "VALUE": 97
+  },
+  {
+    "REF_DATE": "12-Mar",
+    "GEO": "Quebec",
+    "VALUE": 97.2
+  },
+  {
+    "REF_DATE": "12-Apr",
+    "GEO": "Quebec",
+    "VALUE": 97.2
+  },
+  {
+    "REF_DATE": "12-May",
+    "GEO": "Quebec",
+    "VALUE": 97.3
+  },
+  {
+    "REF_DATE": "12-Jun",
+    "GEO": "Quebec",
+    "VALUE": 97.4
+  },
+  {
+    "REF_DATE": "12-Jul",
+    "GEO": "Quebec",
+    "VALUE": 97.5
+  },
+  {
+    "REF_DATE": "12-Aug",
+    "GEO": "Quebec",
+    "VALUE": 97.7
+  },
+  {
+    "REF_DATE": "12-Sep",
+    "GEO": "Quebec",
+    "VALUE": 97.7
+  },
+  {
+    "REF_DATE": "12-Oct",
+    "GEO": "Quebec",
+    "VALUE": 98
+  },
+  {
+    "REF_DATE": "12-Nov",
+    "GEO": "Quebec",
+    "VALUE": 98.2
+  },
+  {
+    "REF_DATE": "12-Dec",
+    "GEO": "Quebec",
+    "VALUE": 98.2
+  },
+  {
+    "REF_DATE": "13-Jan",
+    "GEO": "Quebec",
+    "VALUE": 98.2
+  },
+  {
+    "REF_DATE": "13-Feb",
+    "GEO": "Quebec",
+    "VALUE": 98.3
+  },
+  {
+    "REF_DATE": "13-Mar",
+    "GEO": "Quebec",
+    "VALUE": 98.3
+  },
+  {
+    "REF_DATE": "13-Apr",
+    "GEO": "Quebec",
+    "VALUE": 98.2
+  },
+  {
+    "REF_DATE": "13-May",
+    "GEO": "Quebec",
+    "VALUE": 98.4
+  },
+  {
+    "REF_DATE": "13-Jun",
+    "GEO": "Quebec",
+    "VALUE": 98.6
+  },
+  {
+    "REF_DATE": "13-Jul",
+    "GEO": "Quebec",
+    "VALUE": 98.5
+  },
+  {
+    "REF_DATE": "13-Aug",
+    "GEO": "Quebec",
+    "VALUE": 98.6
+  },
+  {
+    "REF_DATE": "13-Sep",
+    "GEO": "Quebec",
+    "VALUE": 98.6
+  },
+  {
+    "REF_DATE": "13-Oct",
+    "GEO": "Quebec",
+    "VALUE": 98.6
+  },
+  {
+    "REF_DATE": "13-Nov",
+    "GEO": "Quebec",
+    "VALUE": 98.7
+  },
+  {
+    "REF_DATE": "13-Dec",
+    "GEO": "Quebec",
+    "VALUE": 98.7
+  },
+  {
+    "REF_DATE": "14-Jan",
+    "GEO": "Quebec",
+    "VALUE": 98.8
+  },
+  {
+    "REF_DATE": "14-Feb",
+    "GEO": "Quebec",
+    "VALUE": 98.8
+  },
+  {
+    "REF_DATE": "14-Mar",
+    "GEO": "Quebec",
+    "VALUE": 98.8
+  },
+  {
+    "REF_DATE": "14-Apr",
+    "GEO": "Quebec",
+    "VALUE": 98.8
+  },
+  {
+    "REF_DATE": "14-May",
+    "GEO": "Quebec",
+    "VALUE": 98.9
+  },
+  {
+    "REF_DATE": "14-Jun",
+    "GEO": "Quebec",
+    "VALUE": 98.9
+  },
+  {
+    "REF_DATE": "14-Jul",
+    "GEO": "Quebec",
+    "VALUE": 98.9
+  },
+  {
+    "REF_DATE": "14-Aug",
+    "GEO": "Quebec",
+    "VALUE": 98.9
+  },
+  {
+    "REF_DATE": "14-Sep",
+    "GEO": "Quebec",
+    "VALUE": 98.7
+  },
+  {
+    "REF_DATE": "14-Oct",
+    "GEO": "Quebec",
+    "VALUE": 98.8
+  },
+  {
+    "REF_DATE": "14-Nov",
+    "GEO": "Quebec",
+    "VALUE": 98.8
+  },
+  {
+    "REF_DATE": "14-Dec",
+    "GEO": "Quebec",
+    "VALUE": 98.7
+  },
+  {
+    "REF_DATE": "15-Jan",
+    "GEO": "Quebec",
+    "VALUE": 98.8
+  },
+  {
+    "REF_DATE": "15-Feb",
+    "GEO": "Quebec",
+    "VALUE": 99
+  },
+  {
+    "REF_DATE": "15-Mar",
+    "GEO": "Quebec",
+    "VALUE": 99
+  },
+  {
+    "REF_DATE": "15-Apr",
+    "GEO": "Quebec",
+    "VALUE": 98.9
+  },
+  {
+    "REF_DATE": "15-May",
+    "GEO": "Quebec",
+    "VALUE": 98.7
+  },
+  {
+    "REF_DATE": "15-Jun",
+    "GEO": "Quebec",
+    "VALUE": 98.7
+  },
+  {
+    "REF_DATE": "15-Jul",
+    "GEO": "Quebec",
+    "VALUE": 98.9
+  },
+  {
+    "REF_DATE": "15-Aug",
+    "GEO": "Quebec",
+    "VALUE": 99
+  },
+  {
+    "REF_DATE": "15-Sep",
+    "GEO": "Quebec",
+    "VALUE": 99.1
+  },
+  {
+    "REF_DATE": "15-Oct",
+    "GEO": "Quebec",
+    "VALUE": 99.1
+  },
+  {
+    "REF_DATE": "15-Nov",
+    "GEO": "Quebec",
+    "VALUE": 99.4
+  },
+  {
+    "REF_DATE": "15-Dec",
+    "GEO": "Quebec",
+    "VALUE": 99.4
+  },
+  {
+    "REF_DATE": "16-Jan",
+    "GEO": "Quebec",
+    "VALUE": 99.4
+  },
+  {
+    "REF_DATE": "16-Feb",
+    "GEO": "Quebec",
+    "VALUE": 99.5
+  },
+  {
+    "REF_DATE": "16-Mar",
+    "GEO": "Quebec",
+    "VALUE": 99.6
+  },
+  {
+    "REF_DATE": "16-Apr",
+    "GEO": "Quebec",
+    "VALUE": 99.6
+  },
+  {
+    "REF_DATE": "16-May",
+    "GEO": "Quebec",
+    "VALUE": 99.6
+  },
+  {
+    "REF_DATE": "16-Jun",
+    "GEO": "Quebec",
+    "VALUE": 99.6
+  },
+  {
+    "REF_DATE": "16-Jul",
+    "GEO": "Quebec",
+    "VALUE": 99.7
+  },
+  {
+    "REF_DATE": "16-Aug",
+    "GEO": "Quebec",
+    "VALUE": 99.7
+  },
+  {
+    "REF_DATE": "16-Sep",
+    "GEO": "Quebec",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "16-Oct",
+    "GEO": "Quebec",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "16-Nov",
+    "GEO": "Quebec",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "16-Dec",
+    "GEO": "Quebec",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "17-Jan",
+    "GEO": "Quebec",
+    "VALUE": 100.1
+  },
+  {
+    "REF_DATE": "17-Feb",
+    "GEO": "Quebec",
+    "VALUE": 100.3
+  },
+  {
+    "REF_DATE": "17-Mar",
+    "GEO": "Quebec",
+    "VALUE": 100.2
+  },
+  {
+    "REF_DATE": "17-Apr",
+    "GEO": "Quebec",
+    "VALUE": 100.3
+  },
+  {
+    "REF_DATE": "17-May",
+    "GEO": "Quebec",
+    "VALUE": 100.4
+  },
+  {
+    "REF_DATE": "17-Jun",
+    "GEO": "Quebec",
+    "VALUE": 100.5
+  },
+  {
+    "REF_DATE": "17-Jul",
+    "GEO": "Quebec",
+    "VALUE": 100.7
+  },
+  {
+    "REF_DATE": "17-Aug",
+    "GEO": "Quebec",
+    "VALUE": 100.7
+  },
+  {
+    "REF_DATE": "17-Sep",
+    "GEO": "Quebec",
+    "VALUE": 100.8
+  },
+  {
+    "REF_DATE": "17-Oct",
+    "GEO": "Quebec",
+    "VALUE": 101
+  },
+  {
+    "REF_DATE": "17-Nov",
+    "GEO": "Quebec",
+    "VALUE": 101.1
+  },
+  {
+    "REF_DATE": "17-Dec",
+    "GEO": "Quebec",
+    "VALUE": 101.1
+  },
+  {
+    "REF_DATE": "18-Jan",
+    "GEO": "Quebec",
+    "VALUE": 101.4
+  },
+  {
+    "REF_DATE": "18-Feb",
+    "GEO": "Quebec",
+    "VALUE": 101.8
+  },
+  {
+    "REF_DATE": "18-Mar",
+    "GEO": "Quebec",
+    "VALUE": 101.8
+  },
+  {
+    "REF_DATE": "18-Apr",
+    "GEO": "Quebec",
+    "VALUE": 101.9
+  },
+  {
+    "REF_DATE": "18-May",
+    "GEO": "Quebec",
+    "VALUE": 101.9
+  },
+  {
+    "REF_DATE": "18-Jun",
+    "GEO": "Quebec",
+    "VALUE": 102.6
+  },
+  {
+    "REF_DATE": "18-Jul",
+    "GEO": "Quebec",
+    "VALUE": 102.7
+  },
+  {
+    "REF_DATE": "18-Aug",
+    "GEO": "Quebec",
+    "VALUE": 103
+  },
+  {
+    "REF_DATE": "18-Sep",
+    "GEO": "Quebec",
+    "VALUE": 103.1
+  },
+  {
+    "REF_DATE": "18-Oct",
+    "GEO": "Quebec",
+    "VALUE": 103.2
+  },
+  {
+    "REF_DATE": "18-Nov",
+    "GEO": "Quebec",
+    "VALUE": 103.5
+  },
+  {
+    "REF_DATE": "8-Jan",
+    "GEO": "Ontario",
+    "VALUE": 78
+  },
+  {
+    "REF_DATE": "8-Feb",
+    "GEO": "Ontario",
+    "VALUE": 78.4
+  },
+  {
+    "REF_DATE": "8-Mar",
+    "GEO": "Ontario",
+    "VALUE": 78.6
+  },
+  {
+    "REF_DATE": "8-Apr",
+    "GEO": "Ontario",
+    "VALUE": 78.7
+  },
+  {
+    "REF_DATE": "8-May",
+    "GEO": "Ontario",
+    "VALUE": 78.7
+  },
+  {
+    "REF_DATE": "8-Jun",
+    "GEO": "Ontario",
+    "VALUE": 79
+  },
+  {
+    "REF_DATE": "8-Jul",
+    "GEO": "Ontario",
+    "VALUE": 79
+  },
+  {
+    "REF_DATE": "8-Aug",
+    "GEO": "Ontario",
+    "VALUE": 79.1
+  },
+  {
+    "REF_DATE": "8-Sep",
+    "GEO": "Ontario",
+    "VALUE": 79.1
+  },
+  {
+    "REF_DATE": "8-Oct",
+    "GEO": "Ontario",
+    "VALUE": 79.1
+  },
+  {
+    "REF_DATE": "8-Nov",
+    "GEO": "Ontario",
+    "VALUE": 79
+  },
+  {
+    "REF_DATE": "8-Dec",
+    "GEO": "Ontario",
+    "VALUE": 79.1
+  },
+  {
+    "REF_DATE": "9-Jan",
+    "GEO": "Ontario",
+    "VALUE": 79.1
+  },
+  {
+    "REF_DATE": "9-Feb",
+    "GEO": "Ontario",
+    "VALUE": 79.1
+  },
+  {
+    "REF_DATE": "9-Mar",
+    "GEO": "Ontario",
+    "VALUE": 78.9
+  },
+  {
+    "REF_DATE": "9-Apr",
+    "GEO": "Ontario",
+    "VALUE": 78.5
+  },
+  {
+    "REF_DATE": "9-May",
+    "GEO": "Ontario",
+    "VALUE": 78.3
+  },
+  {
+    "REF_DATE": "9-Jun",
+    "GEO": "Ontario",
+    "VALUE": 78.3
+  },
+  {
+    "REF_DATE": "9-Jul",
+    "GEO": "Ontario",
+    "VALUE": 78.4
+  },
+  {
+    "REF_DATE": "9-Aug",
+    "GEO": "Ontario",
+    "VALUE": 78.5
+  },
+  {
+    "REF_DATE": "9-Sep",
+    "GEO": "Ontario",
+    "VALUE": 78.9
+  },
+  {
+    "REF_DATE": "9-Oct",
+    "GEO": "Ontario",
+    "VALUE": 79.1
+  },
+  {
+    "REF_DATE": "9-Nov",
+    "GEO": "Ontario",
+    "VALUE": 79.4
+  },
+  {
+    "REF_DATE": "9-Dec",
+    "GEO": "Ontario",
+    "VALUE": 79.9
+  },
+  {
+    "REF_DATE": "10-Jan",
+    "GEO": "Ontario",
+    "VALUE": 80.2
+  },
+  {
+    "REF_DATE": "10-Feb",
+    "GEO": "Ontario",
+    "VALUE": 80
+  },
+  {
+    "REF_DATE": "10-Mar",
+    "GEO": "Ontario",
+    "VALUE": 80.2
+  },
+  {
+    "REF_DATE": "10-Apr",
+    "GEO": "Ontario",
+    "VALUE": 80.3
+  },
+  {
+    "REF_DATE": "10-May",
+    "GEO": "Ontario",
+    "VALUE": 80.7
+  },
+  {
+    "REF_DATE": "10-Jun",
+    "GEO": "Ontario",
+    "VALUE": 80.9
+  },
+  {
+    "REF_DATE": "10-Jul",
+    "GEO": "Ontario",
+    "VALUE": 80.8
+  },
+  {
+    "REF_DATE": "10-Aug",
+    "GEO": "Ontario",
+    "VALUE": 81
+  },
+  {
+    "REF_DATE": "10-Sep",
+    "GEO": "Ontario",
+    "VALUE": 81
+  },
+  {
+    "REF_DATE": "10-Oct",
+    "GEO": "Ontario",
+    "VALUE": 81.2
+  },
+  {
+    "REF_DATE": "10-Nov",
+    "GEO": "Ontario",
+    "VALUE": 81.5
+  },
+  {
+    "REF_DATE": "10-Dec",
+    "GEO": "Ontario",
+    "VALUE": 81.6
+  },
+  {
+    "REF_DATE": "11-Jan",
+    "GEO": "Ontario",
+    "VALUE": 81.8
+  },
+  {
+    "REF_DATE": "11-Feb",
+    "GEO": "Ontario",
+    "VALUE": 82.2
+  },
+  {
+    "REF_DATE": "11-Mar",
+    "GEO": "Ontario",
+    "VALUE": 82.3
+  },
+  {
+    "REF_DATE": "11-Apr",
+    "GEO": "Ontario",
+    "VALUE": 82.8
+  },
+  {
+    "REF_DATE": "11-May",
+    "GEO": "Ontario",
+    "VALUE": 83.3
+  },
+  {
+    "REF_DATE": "11-Jun",
+    "GEO": "Ontario",
+    "VALUE": 83.8
+  },
+  {
+    "REF_DATE": "11-Jul",
+    "GEO": "Ontario",
+    "VALUE": 84
+  },
+  {
+    "REF_DATE": "11-Aug",
+    "GEO": "Ontario",
+    "VALUE": 84.2
+  },
+  {
+    "REF_DATE": "11-Sep",
+    "GEO": "Ontario",
+    "VALUE": 84.4
+  },
+  {
+    "REF_DATE": "11-Oct",
+    "GEO": "Ontario",
+    "VALUE": 84.7
+  },
+  {
+    "REF_DATE": "11-Nov",
+    "GEO": "Ontario",
+    "VALUE": 85.3
+  },
+  {
+    "REF_DATE": "11-Dec",
+    "GEO": "Ontario",
+    "VALUE": 85.4
+  },
+  {
+    "REF_DATE": "12-Jan",
+    "GEO": "Ontario",
+    "VALUE": 85.5
+  },
+  {
+    "REF_DATE": "12-Feb",
+    "GEO": "Ontario",
+    "VALUE": 85.9
+  },
+  {
+    "REF_DATE": "12-Mar",
+    "GEO": "Ontario",
+    "VALUE": 86.3
+  },
+  {
+    "REF_DATE": "12-Apr",
+    "GEO": "Ontario",
+    "VALUE": 86.5
+  },
+  {
+    "REF_DATE": "12-May",
+    "GEO": "Ontario",
+    "VALUE": 86.9
+  },
+  {
+    "REF_DATE": "12-Jun",
+    "GEO": "Ontario",
+    "VALUE": 87.2
+  },
+  {
+    "REF_DATE": "12-Jul",
+    "GEO": "Ontario",
+    "VALUE": 87.3
+  },
+  {
+    "REF_DATE": "12-Aug",
+    "GEO": "Ontario",
+    "VALUE": 87.5
+  },
+  {
+    "REF_DATE": "12-Sep",
+    "GEO": "Ontario",
+    "VALUE": 87.8
+  },
+  {
+    "REF_DATE": "12-Oct",
+    "GEO": "Ontario",
+    "VALUE": 88
+  },
+  {
+    "REF_DATE": "12-Nov",
+    "GEO": "Ontario",
+    "VALUE": 88.2
+  },
+  {
+    "REF_DATE": "12-Dec",
+    "GEO": "Ontario",
+    "VALUE": 88.4
+  },
+  {
+    "REF_DATE": "13-Jan",
+    "GEO": "Ontario",
+    "VALUE": 88.5
+  },
+  {
+    "REF_DATE": "13-Feb",
+    "GEO": "Ontario",
+    "VALUE": 88.5
+  },
+  {
+    "REF_DATE": "13-Mar",
+    "GEO": "Ontario",
+    "VALUE": 88.6
+  },
+  {
+    "REF_DATE": "13-Apr",
+    "GEO": "Ontario",
+    "VALUE": 88.7
+  },
+  {
+    "REF_DATE": "13-May",
+    "GEO": "Ontario",
+    "VALUE": 88.8
+  },
+  {
+    "REF_DATE": "13-Jun",
+    "GEO": "Ontario",
+    "VALUE": 88.8
+  },
+  {
+    "REF_DATE": "13-Jul",
+    "GEO": "Ontario",
+    "VALUE": 89
+  },
+  {
+    "REF_DATE": "13-Aug",
+    "GEO": "Ontario",
+    "VALUE": 89.1
+  },
+  {
+    "REF_DATE": "13-Sep",
+    "GEO": "Ontario",
+    "VALUE": 89.1
+  },
+  {
+    "REF_DATE": "13-Oct",
+    "GEO": "Ontario",
+    "VALUE": 89.2
+  },
+  {
+    "REF_DATE": "13-Nov",
+    "GEO": "Ontario",
+    "VALUE": 89.3
+  },
+  {
+    "REF_DATE": "13-Dec",
+    "GEO": "Ontario",
+    "VALUE": 89.4
+  },
+  {
+    "REF_DATE": "14-Jan",
+    "GEO": "Ontario",
+    "VALUE": 89.5
+  },
+  {
+    "REF_DATE": "14-Feb",
+    "GEO": "Ontario",
+    "VALUE": 89.8
+  },
+  {
+    "REF_DATE": "14-Mar",
+    "GEO": "Ontario",
+    "VALUE": 89.8
+  },
+  {
+    "REF_DATE": "14-Apr",
+    "GEO": "Ontario",
+    "VALUE": 90.2
+  },
+  {
+    "REF_DATE": "14-May",
+    "GEO": "Ontario",
+    "VALUE": 90.2
+  },
+  {
+    "REF_DATE": "14-Jun",
+    "GEO": "Ontario",
+    "VALUE": 90.4
+  },
+  {
+    "REF_DATE": "14-Jul",
+    "GEO": "Ontario",
+    "VALUE": 90.4
+  },
+  {
+    "REF_DATE": "14-Aug",
+    "GEO": "Ontario",
+    "VALUE": 90.7
+  },
+  {
+    "REF_DATE": "14-Sep",
+    "GEO": "Ontario",
+    "VALUE": 90.9
+  },
+  {
+    "REF_DATE": "14-Oct",
+    "GEO": "Ontario",
+    "VALUE": 91
+  },
+  {
+    "REF_DATE": "14-Nov",
+    "GEO": "Ontario",
+    "VALUE": 91.1
+  },
+  {
+    "REF_DATE": "14-Dec",
+    "GEO": "Ontario",
+    "VALUE": 91.2
+  },
+  {
+    "REF_DATE": "15-Jan",
+    "GEO": "Ontario",
+    "VALUE": 91.2
+  },
+  {
+    "REF_DATE": "15-Feb",
+    "GEO": "Ontario",
+    "VALUE": 91.4
+  },
+  {
+    "REF_DATE": "15-Mar",
+    "GEO": "Ontario",
+    "VALUE": 91.6
+  },
+  {
+    "REF_DATE": "15-Apr",
+    "GEO": "Ontario",
+    "VALUE": 91.8
+  },
+  {
+    "REF_DATE": "15-May",
+    "GEO": "Ontario",
+    "VALUE": 92.1
+  },
+  {
+    "REF_DATE": "15-Jun",
+    "GEO": "Ontario",
+    "VALUE": 92.6
+  },
+  {
+    "REF_DATE": "15-Jul",
+    "GEO": "Ontario",
+    "VALUE": 92.8
+  },
+  {
+    "REF_DATE": "15-Aug",
+    "GEO": "Ontario",
+    "VALUE": 93.3
+  },
+  {
+    "REF_DATE": "15-Sep",
+    "GEO": "Ontario",
+    "VALUE": 93.4
+  },
+  {
+    "REF_DATE": "15-Oct",
+    "GEO": "Ontario",
+    "VALUE": 93.8
+  },
+  {
+    "REF_DATE": "15-Nov",
+    "GEO": "Ontario",
+    "VALUE": 93.9
+  },
+  {
+    "REF_DATE": "15-Dec",
+    "GEO": "Ontario",
+    "VALUE": 94.1
+  },
+  {
+    "REF_DATE": "16-Jan",
+    "GEO": "Ontario",
+    "VALUE": 94.2
+  },
+  {
+    "REF_DATE": "16-Feb",
+    "GEO": "Ontario",
+    "VALUE": 94.6
+  },
+  {
+    "REF_DATE": "16-Mar",
+    "GEO": "Ontario",
+    "VALUE": 94.8
+  },
+  {
+    "REF_DATE": "16-Apr",
+    "GEO": "Ontario",
+    "VALUE": 95.3
+  },
+  {
+    "REF_DATE": "16-May",
+    "GEO": "Ontario",
+    "VALUE": 96.6
+  },
+  {
+    "REF_DATE": "16-Jun",
+    "GEO": "Ontario",
+    "VALUE": 97
+  },
+  {
+    "REF_DATE": "16-Jul",
+    "GEO": "Ontario",
+    "VALUE": 97.8
+  },
+  {
+    "REF_DATE": "16-Aug",
+    "GEO": "Ontario",
+    "VALUE": 98.2
+  },
+  {
+    "REF_DATE": "16-Sep",
+    "GEO": "Ontario",
+    "VALUE": 98.5
+  },
+  {
+    "REF_DATE": "16-Oct",
+    "GEO": "Ontario",
+    "VALUE": 99.5
+  },
+  {
+    "REF_DATE": "16-Nov",
+    "GEO": "Ontario",
+    "VALUE": 99.9
+  },
+  {
+    "REF_DATE": "16-Dec",
+    "GEO": "Ontario",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "17-Jan",
+    "GEO": "Ontario",
+    "VALUE": 100.3
+  },
+  {
+    "REF_DATE": "17-Feb",
+    "GEO": "Ontario",
+    "VALUE": 101.1
+  },
+  {
+    "REF_DATE": "17-Mar",
+    "GEO": "Ontario",
+    "VALUE": 101.4
+  },
+  {
+    "REF_DATE": "17-Apr",
+    "GEO": "Ontario",
+    "VALUE": 103
+  },
+  {
+    "REF_DATE": "17-May",
+    "GEO": "Ontario",
+    "VALUE": 103.8
+  },
+  {
+    "REF_DATE": "17-Jun",
+    "GEO": "Ontario",
+    "VALUE": 103.9
+  },
+  {
+    "REF_DATE": "17-Jul",
+    "GEO": "Ontario",
+    "VALUE": 104.1
+  },
+  {
+    "REF_DATE": "17-Aug",
+    "GEO": "Ontario",
+    "VALUE": 104.2
+  },
+  {
+    "REF_DATE": "17-Sep",
+    "GEO": "Ontario",
+    "VALUE": 104.3
+  },
+  {
+    "REF_DATE": "17-Oct",
+    "GEO": "Ontario",
+    "VALUE": 104.4
+  },
+  {
+    "REF_DATE": "17-Nov",
+    "GEO": "Ontario",
+    "VALUE": 104.5
+  },
+  {
+    "REF_DATE": "17-Dec",
+    "GEO": "Ontario",
+    "VALUE": 104.5
+  },
+  {
+    "REF_DATE": "18-Jan",
+    "GEO": "Ontario",
+    "VALUE": 104.6
+  },
+  {
+    "REF_DATE": "18-Feb",
+    "GEO": "Ontario",
+    "VALUE": 104.3
+  },
+  {
+    "REF_DATE": "18-Mar",
+    "GEO": "Ontario",
+    "VALUE": 104.3
+  },
+  {
+    "REF_DATE": "18-Apr",
+    "GEO": "Ontario",
+    "VALUE": 104.1
+  },
+  {
+    "REF_DATE": "18-May",
+    "GEO": "Ontario",
+    "VALUE": 104.1
+  },
+  {
+    "REF_DATE": "18-Jun",
+    "GEO": "Ontario",
+    "VALUE": 104.2
+  },
+  {
+    "REF_DATE": "18-Jul",
+    "GEO": "Ontario",
+    "VALUE": 104.3
+  },
+  {
+    "REF_DATE": "18-Aug",
+    "GEO": "Ontario",
+    "VALUE": 104.4
+  },
+  {
+    "REF_DATE": "18-Sep",
+    "GEO": "Ontario",
+    "VALUE": 104.4
+  },
+  {
+    "REF_DATE": "18-Oct",
+    "GEO": "Ontario",
+    "VALUE": 104.5
+  },
+  {
+    "REF_DATE": "18-Nov",
+    "GEO": "Ontario",
+    "VALUE": 104.6
+  },
+  {
+    "REF_DATE": "8-Jan",
+    "GEO": "Manitoba",
+    "VALUE": 74.4
+  },
+  {
+    "REF_DATE": "8-Feb",
+    "GEO": "Manitoba",
+    "VALUE": 74.4
+  },
+  {
+    "REF_DATE": "8-Mar",
+    "GEO": "Manitoba",
+    "VALUE": 75.2
+  },
+  {
+    "REF_DATE": "8-Apr",
+    "GEO": "Manitoba",
+    "VALUE": 75.2
+  },
+  {
+    "REF_DATE": "8-May",
+    "GEO": "Manitoba",
+    "VALUE": 76.6
+  },
+  {
+    "REF_DATE": "8-Jun",
+    "GEO": "Manitoba",
+    "VALUE": 77.4
+  },
+  {
+    "REF_DATE": "8-Jul",
+    "GEO": "Manitoba",
+    "VALUE": 77.6
+  },
+  {
+    "REF_DATE": "8-Aug",
+    "GEO": "Manitoba",
+    "VALUE": 77.7
+  },
+  {
+    "REF_DATE": "8-Sep",
+    "GEO": "Manitoba",
+    "VALUE": 78
+  },
+  {
+    "REF_DATE": "8-Oct",
+    "GEO": "Manitoba",
+    "VALUE": 78.2
+  },
+  {
+    "REF_DATE": "8-Nov",
+    "GEO": "Manitoba",
+    "VALUE": 78.2
+  },
+  {
+    "REF_DATE": "8-Dec",
+    "GEO": "Manitoba",
+    "VALUE": 78.2
+  },
+  {
+    "REF_DATE": "9-Jan",
+    "GEO": "Manitoba",
+    "VALUE": 78.2
+  },
+  {
+    "REF_DATE": "9-Feb",
+    "GEO": "Manitoba",
+    "VALUE": 78.2
+  },
+  {
+    "REF_DATE": "9-Mar",
+    "GEO": "Manitoba",
+    "VALUE": 78.2
+  },
+  {
+    "REF_DATE": "9-Apr",
+    "GEO": "Manitoba",
+    "VALUE": 78.2
+  },
+  {
+    "REF_DATE": "9-May",
+    "GEO": "Manitoba",
+    "VALUE": 78.5
+  },
+  {
+    "REF_DATE": "9-Jun",
+    "GEO": "Manitoba",
+    "VALUE": 78.8
+  },
+  {
+    "REF_DATE": "9-Jul",
+    "GEO": "Manitoba",
+    "VALUE": 78.9
+  },
+  {
+    "REF_DATE": "9-Aug",
+    "GEO": "Manitoba",
+    "VALUE": 79
+  },
+  {
+    "REF_DATE": "9-Sep",
+    "GEO": "Manitoba",
+    "VALUE": 79
+  },
+  {
+    "REF_DATE": "9-Oct",
+    "GEO": "Manitoba",
+    "VALUE": 79
+  },
+  {
+    "REF_DATE": "9-Nov",
+    "GEO": "Manitoba",
+    "VALUE": 79.1
+  },
+  {
+    "REF_DATE": "9-Dec",
+    "GEO": "Manitoba",
+    "VALUE": 79.4
+  },
+  {
+    "REF_DATE": "10-Jan",
+    "GEO": "Manitoba",
+    "VALUE": 79.9
+  },
+  {
+    "REF_DATE": "10-Feb",
+    "GEO": "Manitoba",
+    "VALUE": 81.4
+  },
+  {
+    "REF_DATE": "10-Mar",
+    "GEO": "Manitoba",
+    "VALUE": 81.8
+  },
+  {
+    "REF_DATE": "10-Apr",
+    "GEO": "Manitoba",
+    "VALUE": 82
+  },
+  {
+    "REF_DATE": "10-May",
+    "GEO": "Manitoba",
+    "VALUE": 82.2
+  },
+  {
+    "REF_DATE": "10-Jun",
+    "GEO": "Manitoba",
+    "VALUE": 82.6
+  },
+  {
+    "REF_DATE": "10-Jul",
+    "GEO": "Manitoba",
+    "VALUE": 82.8
+  },
+  {
+    "REF_DATE": "10-Aug",
+    "GEO": "Manitoba",
+    "VALUE": 83.1
+  },
+  {
+    "REF_DATE": "10-Sep",
+    "GEO": "Manitoba",
+    "VALUE": 83.2
+  },
+  {
+    "REF_DATE": "10-Oct",
+    "GEO": "Manitoba",
+    "VALUE": 83.2
+  },
+  {
+    "REF_DATE": "10-Nov",
+    "GEO": "Manitoba",
+    "VALUE": 83.2
+  },
+  {
+    "REF_DATE": "10-Dec",
+    "GEO": "Manitoba",
+    "VALUE": 84.1
+  },
+  {
+    "REF_DATE": "11-Jan",
+    "GEO": "Manitoba",
+    "VALUE": 84.6
+  },
+  {
+    "REF_DATE": "11-Feb",
+    "GEO": "Manitoba",
+    "VALUE": 85.2
+  },
+  {
+    "REF_DATE": "11-Mar",
+    "GEO": "Manitoba",
+    "VALUE": 85.5
+  },
+  {
+    "REF_DATE": "11-Apr",
+    "GEO": "Manitoba",
+    "VALUE": 85.6
+  },
+  {
+    "REF_DATE": "11-May",
+    "GEO": "Manitoba",
+    "VALUE": 85.7
+  },
+  {
+    "REF_DATE": "11-Jun",
+    "GEO": "Manitoba",
+    "VALUE": 86.2
+  },
+  {
+    "REF_DATE": "11-Jul",
+    "GEO": "Manitoba",
+    "VALUE": 86.4
+  },
+  {
+    "REF_DATE": "11-Aug",
+    "GEO": "Manitoba",
+    "VALUE": 86.5
+  },
+  {
+    "REF_DATE": "11-Sep",
+    "GEO": "Manitoba",
+    "VALUE": 87.7
+  },
+  {
+    "REF_DATE": "11-Oct",
+    "GEO": "Manitoba",
+    "VALUE": 87.8
+  },
+  {
+    "REF_DATE": "11-Nov",
+    "GEO": "Manitoba",
+    "VALUE": 88
+  },
+  {
+    "REF_DATE": "11-Dec",
+    "GEO": "Manitoba",
+    "VALUE": 88
+  },
+  {
+    "REF_DATE": "12-Jan",
+    "GEO": "Manitoba",
+    "VALUE": 88.1
+  },
+  {
+    "REF_DATE": "12-Feb",
+    "GEO": "Manitoba",
+    "VALUE": 88.4
+  },
+  {
+    "REF_DATE": "12-Mar",
+    "GEO": "Manitoba",
+    "VALUE": 89
+  },
+  {
+    "REF_DATE": "12-Apr",
+    "GEO": "Manitoba",
+    "VALUE": 89.3
+  },
+  {
+    "REF_DATE": "12-May",
+    "GEO": "Manitoba",
+    "VALUE": 89.4
+  },
+  {
+    "REF_DATE": "12-Jun",
+    "GEO": "Manitoba",
+    "VALUE": 90
+  },
+  {
+    "REF_DATE": "12-Jul",
+    "GEO": "Manitoba",
+    "VALUE": 90.2
+  },
+  {
+    "REF_DATE": "12-Aug",
+    "GEO": "Manitoba",
+    "VALUE": 90.4
+  },
+  {
+    "REF_DATE": "12-Sep",
+    "GEO": "Manitoba",
+    "VALUE": 90.9
+  },
+  {
+    "REF_DATE": "12-Oct",
+    "GEO": "Manitoba",
+    "VALUE": 91.2
+  },
+  {
+    "REF_DATE": "12-Nov",
+    "GEO": "Manitoba",
+    "VALUE": 91.6
+  },
+  {
+    "REF_DATE": "12-Dec",
+    "GEO": "Manitoba",
+    "VALUE": 92.4
+  },
+  {
+    "REF_DATE": "13-Jan",
+    "GEO": "Manitoba",
+    "VALUE": 93.2
+  },
+  {
+    "REF_DATE": "13-Feb",
+    "GEO": "Manitoba",
+    "VALUE": 93.3
+  },
+  {
+    "REF_DATE": "13-Mar",
+    "GEO": "Manitoba",
+    "VALUE": 93.6
+  },
+  {
+    "REF_DATE": "13-Apr",
+    "GEO": "Manitoba",
+    "VALUE": 94.2
+  },
+  {
+    "REF_DATE": "13-May",
+    "GEO": "Manitoba",
+    "VALUE": 94.6
+  },
+  {
+    "REF_DATE": "13-Jun",
+    "GEO": "Manitoba",
+    "VALUE": 94.8
+  },
+  {
+    "REF_DATE": "13-Jul",
+    "GEO": "Manitoba",
+    "VALUE": 94.9
+  },
+  {
+    "REF_DATE": "13-Aug",
+    "GEO": "Manitoba",
+    "VALUE": 95
+  },
+  {
+    "REF_DATE": "13-Sep",
+    "GEO": "Manitoba",
+    "VALUE": 95
+  },
+  {
+    "REF_DATE": "13-Oct",
+    "GEO": "Manitoba",
+    "VALUE": 95
+  },
+  {
+    "REF_DATE": "13-Nov",
+    "GEO": "Manitoba",
+    "VALUE": 95
+  },
+  {
+    "REF_DATE": "13-Dec",
+    "GEO": "Manitoba",
+    "VALUE": 95.1
+  },
+  {
+    "REF_DATE": "14-Jan",
+    "GEO": "Manitoba",
+    "VALUE": 95.6
+  },
+  {
+    "REF_DATE": "14-Feb",
+    "GEO": "Manitoba",
+    "VALUE": 95.7
+  },
+  {
+    "REF_DATE": "14-Mar",
+    "GEO": "Manitoba",
+    "VALUE": 95.8
+  },
+  {
+    "REF_DATE": "14-Apr",
+    "GEO": "Manitoba",
+    "VALUE": 96
+  },
+  {
+    "REF_DATE": "14-May",
+    "GEO": "Manitoba",
+    "VALUE": 96.1
+  },
+  {
+    "REF_DATE": "14-Jun",
+    "GEO": "Manitoba",
+    "VALUE": 96.3
+  },
+  {
+    "REF_DATE": "14-Jul",
+    "GEO": "Manitoba",
+    "VALUE": 96.3
+  },
+  {
+    "REF_DATE": "14-Aug",
+    "GEO": "Manitoba",
+    "VALUE": 96.3
+  },
+  {
+    "REF_DATE": "14-Sep",
+    "GEO": "Manitoba",
+    "VALUE": 95.9
+  },
+  {
+    "REF_DATE": "14-Oct",
+    "GEO": "Manitoba",
+    "VALUE": 96.1
+  },
+  {
+    "REF_DATE": "14-Nov",
+    "GEO": "Manitoba",
+    "VALUE": 96.1
+  },
+  {
+    "REF_DATE": "14-Dec",
+    "GEO": "Manitoba",
+    "VALUE": 96
+  },
+  {
+    "REF_DATE": "15-Jan",
+    "GEO": "Manitoba",
+    "VALUE": 96.2
+  },
+  {
+    "REF_DATE": "15-Feb",
+    "GEO": "Manitoba",
+    "VALUE": 96.3
+  },
+  {
+    "REF_DATE": "15-Mar",
+    "GEO": "Manitoba",
+    "VALUE": 96.6
+  },
+  {
+    "REF_DATE": "15-Apr",
+    "GEO": "Manitoba",
+    "VALUE": 96.7
+  },
+  {
+    "REF_DATE": "15-May",
+    "GEO": "Manitoba",
+    "VALUE": 96.8
+  },
+  {
+    "REF_DATE": "15-Jun",
+    "GEO": "Manitoba",
+    "VALUE": 97.2
+  },
+  {
+    "REF_DATE": "15-Jul",
+    "GEO": "Manitoba",
+    "VALUE": 97.3
+  },
+  {
+    "REF_DATE": "15-Aug",
+    "GEO": "Manitoba",
+    "VALUE": 97.3
+  },
+  {
+    "REF_DATE": "15-Sep",
+    "GEO": "Manitoba",
+    "VALUE": 97.5
+  },
+  {
+    "REF_DATE": "15-Oct",
+    "GEO": "Manitoba",
+    "VALUE": 97.6
+  },
+  {
+    "REF_DATE": "15-Nov",
+    "GEO": "Manitoba",
+    "VALUE": 97.7
+  },
+  {
+    "REF_DATE": "15-Dec",
+    "GEO": "Manitoba",
+    "VALUE": 97.7
+  },
+  {
+    "REF_DATE": "16-Jan",
+    "GEO": "Manitoba",
+    "VALUE": 97.9
+  },
+  {
+    "REF_DATE": "16-Feb",
+    "GEO": "Manitoba",
+    "VALUE": 97.9
+  },
+  {
+    "REF_DATE": "16-Mar",
+    "GEO": "Manitoba",
+    "VALUE": 98.1
+  },
+  {
+    "REF_DATE": "16-Apr",
+    "GEO": "Manitoba",
+    "VALUE": 98.3
+  },
+  {
+    "REF_DATE": "16-May",
+    "GEO": "Manitoba",
+    "VALUE": 98.5
+  },
+  {
+    "REF_DATE": "16-Jun",
+    "GEO": "Manitoba",
+    "VALUE": 98.7
+  },
+  {
+    "REF_DATE": "16-Jul",
+    "GEO": "Manitoba",
+    "VALUE": 98.9
+  },
+  {
+    "REF_DATE": "16-Aug",
+    "GEO": "Manitoba",
+    "VALUE": 99
+  },
+  {
+    "REF_DATE": "16-Sep",
+    "GEO": "Manitoba",
+    "VALUE": 99.4
+  },
+  {
+    "REF_DATE": "16-Oct",
+    "GEO": "Manitoba",
+    "VALUE": 99.9
+  },
+  {
+    "REF_DATE": "16-Nov",
+    "GEO": "Manitoba",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "16-Dec",
+    "GEO": "Manitoba",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "17-Jan",
+    "GEO": "Manitoba",
+    "VALUE": 100.3
+  },
+  {
+    "REF_DATE": "17-Feb",
+    "GEO": "Manitoba",
+    "VALUE": 100.5
+  },
+  {
+    "REF_DATE": "17-Mar",
+    "GEO": "Manitoba",
+    "VALUE": 100.5
+  },
+  {
+    "REF_DATE": "17-Apr",
+    "GEO": "Manitoba",
+    "VALUE": 101.3
+  },
+  {
+    "REF_DATE": "17-May",
+    "GEO": "Manitoba",
+    "VALUE": 101.8
+  },
+  {
+    "REF_DATE": "17-Jun",
+    "GEO": "Manitoba",
+    "VALUE": 102.2
+  },
+  {
+    "REF_DATE": "17-Jul",
+    "GEO": "Manitoba",
+    "VALUE": 102.3
+  },
+  {
+    "REF_DATE": "17-Aug",
+    "GEO": "Manitoba",
+    "VALUE": 102.6
+  },
+  {
+    "REF_DATE": "17-Sep",
+    "GEO": "Manitoba",
+    "VALUE": 102.9
+  },
+  {
+    "REF_DATE": "17-Oct",
+    "GEO": "Manitoba",
+    "VALUE": 103
+  },
+  {
+    "REF_DATE": "17-Nov",
+    "GEO": "Manitoba",
+    "VALUE": 103.2
+  },
+  {
+    "REF_DATE": "17-Dec",
+    "GEO": "Manitoba",
+    "VALUE": 103.3
+  },
+  {
+    "REF_DATE": "18-Jan",
+    "GEO": "Manitoba",
+    "VALUE": 103.3
+  },
+  {
+    "REF_DATE": "18-Feb",
+    "GEO": "Manitoba",
+    "VALUE": 103.4
+  },
+  {
+    "REF_DATE": "18-Mar",
+    "GEO": "Manitoba",
+    "VALUE": 103.5
+  },
+  {
+    "REF_DATE": "18-Apr",
+    "GEO": "Manitoba",
+    "VALUE": 103.5
+  },
+  {
+    "REF_DATE": "18-May",
+    "GEO": "Manitoba",
+    "VALUE": 103.7
+  },
+  {
+    "REF_DATE": "18-Jun",
+    "GEO": "Manitoba",
+    "VALUE": 103.9
+  },
+  {
+    "REF_DATE": "18-Jul",
+    "GEO": "Manitoba",
+    "VALUE": 104
+  },
+  {
+    "REF_DATE": "18-Aug",
+    "GEO": "Manitoba",
+    "VALUE": 104.1
+  },
+  {
+    "REF_DATE": "18-Sep",
+    "GEO": "Manitoba",
+    "VALUE": 104.1
+  },
+  {
+    "REF_DATE": "18-Oct",
+    "GEO": "Manitoba",
+    "VALUE": 104.4
+  },
+  {
+    "REF_DATE": "18-Nov",
+    "GEO": "Manitoba",
+    "VALUE": 104.4
+  },
+  {
+    "REF_DATE": "8-Jan",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 74.4
+  },
+  {
+    "REF_DATE": "8-Feb",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 74.4
+  },
+  {
+    "REF_DATE": "8-Mar",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 75.2
+  },
+  {
+    "REF_DATE": "8-Apr",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 75.2
+  },
+  {
+    "REF_DATE": "8-May",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 76.6
+  },
+  {
+    "REF_DATE": "8-Jun",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 77.4
+  },
+  {
+    "REF_DATE": "8-Jul",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 77.6
+  },
+  {
+    "REF_DATE": "8-Aug",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 77.7
+  },
+  {
+    "REF_DATE": "8-Sep",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 78
+  },
+  {
+    "REF_DATE": "8-Oct",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 78.2
+  },
+  {
+    "REF_DATE": "8-Nov",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 78.2
+  },
+  {
+    "REF_DATE": "8-Dec",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 78.2
+  },
+  {
+    "REF_DATE": "9-Jan",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 78.2
+  },
+  {
+    "REF_DATE": "9-Feb",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 78.2
+  },
+  {
+    "REF_DATE": "9-Mar",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 78.2
+  },
+  {
+    "REF_DATE": "9-Apr",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 78.2
+  },
+  {
+    "REF_DATE": "9-May",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 78.5
+  },
+  {
+    "REF_DATE": "9-Jun",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 78.8
+  },
+  {
+    "REF_DATE": "9-Jul",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 78.9
+  },
+  {
+    "REF_DATE": "9-Aug",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 79
+  },
+  {
+    "REF_DATE": "9-Sep",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 79
+  },
+  {
+    "REF_DATE": "9-Oct",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 79
+  },
+  {
+    "REF_DATE": "9-Nov",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 79.1
+  },
+  {
+    "REF_DATE": "9-Dec",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 79.4
+  },
+  {
+    "REF_DATE": "10-Jan",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 79.9
+  },
+  {
+    "REF_DATE": "10-Feb",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 81.4
+  },
+  {
+    "REF_DATE": "10-Mar",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 81.8
+  },
+  {
+    "REF_DATE": "10-Apr",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 82
+  },
+  {
+    "REF_DATE": "10-May",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 82.2
+  },
+  {
+    "REF_DATE": "10-Jun",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 82.6
+  },
+  {
+    "REF_DATE": "10-Jul",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 82.8
+  },
+  {
+    "REF_DATE": "10-Aug",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 83.1
+  },
+  {
+    "REF_DATE": "10-Sep",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 83.2
+  },
+  {
+    "REF_DATE": "10-Oct",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 83.2
+  },
+  {
+    "REF_DATE": "10-Nov",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 83.2
+  },
+  {
+    "REF_DATE": "10-Dec",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 84.1
+  },
+  {
+    "REF_DATE": "11-Jan",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 84.6
+  },
+  {
+    "REF_DATE": "11-Feb",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 85.2
+  },
+  {
+    "REF_DATE": "11-Mar",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 85.5
+  },
+  {
+    "REF_DATE": "11-Apr",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 85.6
+  },
+  {
+    "REF_DATE": "11-May",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 85.7
+  },
+  {
+    "REF_DATE": "11-Jun",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 86.2
+  },
+  {
+    "REF_DATE": "11-Jul",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 86.4
+  },
+  {
+    "REF_DATE": "11-Aug",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 86.5
+  },
+  {
+    "REF_DATE": "11-Sep",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 87.7
+  },
+  {
+    "REF_DATE": "11-Oct",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 87.8
+  },
+  {
+    "REF_DATE": "11-Nov",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 88
+  },
+  {
+    "REF_DATE": "11-Dec",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 88
+  },
+  {
+    "REF_DATE": "12-Jan",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 88.1
+  },
+  {
+    "REF_DATE": "12-Feb",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 88.4
+  },
+  {
+    "REF_DATE": "12-Mar",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 89
+  },
+  {
+    "REF_DATE": "12-Apr",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 89.3
+  },
+  {
+    "REF_DATE": "12-May",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 89.4
+  },
+  {
+    "REF_DATE": "12-Jun",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 90
+  },
+  {
+    "REF_DATE": "12-Jul",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 90.2
+  },
+  {
+    "REF_DATE": "12-Aug",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 90.4
+  },
+  {
+    "REF_DATE": "12-Sep",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 90.9
+  },
+  {
+    "REF_DATE": "12-Oct",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 91.2
+  },
+  {
+    "REF_DATE": "12-Nov",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 91.6
+  },
+  {
+    "REF_DATE": "12-Dec",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 92.4
+  },
+  {
+    "REF_DATE": "13-Jan",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 93.2
+  },
+  {
+    "REF_DATE": "13-Feb",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 93.3
+  },
+  {
+    "REF_DATE": "13-Mar",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 93.6
+  },
+  {
+    "REF_DATE": "13-Apr",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 94.2
+  },
+  {
+    "REF_DATE": "13-May",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 94.6
+  },
+  {
+    "REF_DATE": "13-Jun",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 94.8
+  },
+  {
+    "REF_DATE": "13-Jul",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 94.9
+  },
+  {
+    "REF_DATE": "13-Aug",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 95
+  },
+  {
+    "REF_DATE": "13-Sep",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 95
+  },
+  {
+    "REF_DATE": "13-Oct",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 95
+  },
+  {
+    "REF_DATE": "13-Nov",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 95
+  },
+  {
+    "REF_DATE": "13-Dec",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 95.1
+  },
+  {
+    "REF_DATE": "14-Jan",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 95.6
+  },
+  {
+    "REF_DATE": "14-Feb",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 95.7
+  },
+  {
+    "REF_DATE": "14-Mar",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 95.8
+  },
+  {
+    "REF_DATE": "14-Apr",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 96
+  },
+  {
+    "REF_DATE": "14-May",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 96.1
+  },
+  {
+    "REF_DATE": "14-Jun",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 96.3
+  },
+  {
+    "REF_DATE": "14-Jul",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 96.3
+  },
+  {
+    "REF_DATE": "14-Aug",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 96.3
+  },
+  {
+    "REF_DATE": "14-Sep",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 95.9
+  },
+  {
+    "REF_DATE": "14-Oct",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 96.1
+  },
+  {
+    "REF_DATE": "14-Nov",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 96.1
+  },
+  {
+    "REF_DATE": "14-Dec",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 96
+  },
+  {
+    "REF_DATE": "15-Jan",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 96.2
+  },
+  {
+    "REF_DATE": "15-Feb",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 96.3
+  },
+  {
+    "REF_DATE": "15-Mar",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 96.6
+  },
+  {
+    "REF_DATE": "15-Apr",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 96.7
+  },
+  {
+    "REF_DATE": "15-May",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 96.8
+  },
+  {
+    "REF_DATE": "15-Jun",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 97.2
+  },
+  {
+    "REF_DATE": "15-Jul",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 97.3
+  },
+  {
+    "REF_DATE": "15-Aug",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 97.3
+  },
+  {
+    "REF_DATE": "15-Sep",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 97.5
+  },
+  {
+    "REF_DATE": "15-Oct",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 97.6
+  },
+  {
+    "REF_DATE": "15-Nov",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 97.7
+  },
+  {
+    "REF_DATE": "15-Dec",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 97.7
+  },
+  {
+    "REF_DATE": "16-Jan",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 97.9
+  },
+  {
+    "REF_DATE": "16-Feb",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 97.9
+  },
+  {
+    "REF_DATE": "16-Mar",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 98.1
+  },
+  {
+    "REF_DATE": "16-Apr",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 98.3
+  },
+  {
+    "REF_DATE": "16-May",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 98.5
+  },
+  {
+    "REF_DATE": "16-Jun",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 98.7
+  },
+  {
+    "REF_DATE": "16-Jul",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 98.9
+  },
+  {
+    "REF_DATE": "16-Aug",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 99
+  },
+  {
+    "REF_DATE": "16-Sep",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 99.4
+  },
+  {
+    "REF_DATE": "16-Oct",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 99.9
+  },
+  {
+    "REF_DATE": "16-Nov",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "16-Dec",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "17-Jan",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 100.3
+  },
+  {
+    "REF_DATE": "17-Feb",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 100.5
+  },
+  {
+    "REF_DATE": "17-Mar",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 100.5
+  },
+  {
+    "REF_DATE": "17-Apr",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 101.3
+  },
+  {
+    "REF_DATE": "17-May",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 101.8
+  },
+  {
+    "REF_DATE": "17-Jun",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 102.2
+  },
+  {
+    "REF_DATE": "17-Jul",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 102.3
+  },
+  {
+    "REF_DATE": "17-Aug",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 102.6
+  },
+  {
+    "REF_DATE": "17-Sep",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 102.9
+  },
+  {
+    "REF_DATE": "17-Oct",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 103
+  },
+  {
+    "REF_DATE": "17-Nov",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 103.2
+  },
+  {
+    "REF_DATE": "17-Dec",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 103.3
+  },
+  {
+    "REF_DATE": "18-Jan",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 103.3
+  },
+  {
+    "REF_DATE": "18-Feb",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 103.4
+  },
+  {
+    "REF_DATE": "18-Mar",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 103.5
+  },
+  {
+    "REF_DATE": "18-Apr",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 103.5
+  },
+  {
+    "REF_DATE": "18-May",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 103.7
+  },
+  {
+    "REF_DATE": "18-Jun",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 103.9
+  },
+  {
+    "REF_DATE": "18-Jul",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 104
+  },
+  {
+    "REF_DATE": "18-Aug",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 104.1
+  },
+  {
+    "REF_DATE": "18-Sep",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 104.1
+  },
+  {
+    "REF_DATE": "18-Oct",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 104.4
+  },
+  {
+    "REF_DATE": "18-Nov",
+    "GEO": "Winnipeg, Manitoba",
+    "VALUE": 104.4
+  },
+  {
+    "REF_DATE": "8-Jan",
+    "GEO": "Saskatchewan",
+    "VALUE": 83.7
+  },
+  {
+    "REF_DATE": "8-Feb",
+    "GEO": "Saskatchewan",
+    "VALUE": 88.3
+  },
+  {
+    "REF_DATE": "8-Mar",
+    "GEO": "Saskatchewan",
+    "VALUE": 90
+  },
+  {
+    "REF_DATE": "8-Apr",
+    "GEO": "Saskatchewan",
+    "VALUE": 93.1
+  },
+  {
+    "REF_DATE": "8-May",
+    "GEO": "Saskatchewan",
+    "VALUE": 93.9
+  },
+  {
+    "REF_DATE": "8-Jun",
+    "GEO": "Saskatchewan",
+    "VALUE": 92.6
+  },
+  {
+    "REF_DATE": "8-Jul",
+    "GEO": "Saskatchewan",
+    "VALUE": 93.8
+  },
+  {
+    "REF_DATE": "8-Aug",
+    "GEO": "Saskatchewan",
+    "VALUE": 92.3
+  },
+  {
+    "REF_DATE": "8-Sep",
+    "GEO": "Saskatchewan",
+    "VALUE": 91.3
+  },
+  {
+    "REF_DATE": "8-Oct",
+    "GEO": "Saskatchewan",
+    "VALUE": 90.6
+  },
+  {
+    "REF_DATE": "8-Nov",
+    "GEO": "Saskatchewan",
+    "VALUE": 90.4
+  },
+  {
+    "REF_DATE": "8-Dec",
+    "GEO": "Saskatchewan",
+    "VALUE": 90.1
+  },
+  {
+    "REF_DATE": "9-Jan",
+    "GEO": "Saskatchewan",
+    "VALUE": 90.5
+  },
+  {
+    "REF_DATE": "9-Feb",
+    "GEO": "Saskatchewan",
+    "VALUE": 89.8
+  },
+  {
+    "REF_DATE": "9-Mar",
+    "GEO": "Saskatchewan",
+    "VALUE": 89.5
+  },
+  {
+    "REF_DATE": "9-Apr",
+    "GEO": "Saskatchewan",
+    "VALUE": 89.4
+  },
+  {
+    "REF_DATE": "9-May",
+    "GEO": "Saskatchewan",
+    "VALUE": 88.8
+  },
+  {
+    "REF_DATE": "9-Jun",
+    "GEO": "Saskatchewan",
+    "VALUE": 89
+  },
+  {
+    "REF_DATE": "9-Jul",
+    "GEO": "Saskatchewan",
+    "VALUE": 89
+  },
+  {
+    "REF_DATE": "9-Aug",
+    "GEO": "Saskatchewan",
+    "VALUE": 89.5
+  },
+  {
+    "REF_DATE": "9-Sep",
+    "GEO": "Saskatchewan",
+    "VALUE": 89.7
+  },
+  {
+    "REF_DATE": "9-Oct",
+    "GEO": "Saskatchewan",
+    "VALUE": 89.8
+  },
+  {
+    "REF_DATE": "9-Nov",
+    "GEO": "Saskatchewan",
+    "VALUE": 89.8
+  },
+  {
+    "REF_DATE": "9-Dec",
+    "GEO": "Saskatchewan",
+    "VALUE": 89.9
+  },
+  {
+    "REF_DATE": "10-Jan",
+    "GEO": "Saskatchewan",
+    "VALUE": 90.2
+  },
+  {
+    "REF_DATE": "10-Feb",
+    "GEO": "Saskatchewan",
+    "VALUE": 91.4
+  },
+  {
+    "REF_DATE": "10-Mar",
+    "GEO": "Saskatchewan",
+    "VALUE": 91.6
+  },
+  {
+    "REF_DATE": "10-Apr",
+    "GEO": "Saskatchewan",
+    "VALUE": 92.4
+  },
+  {
+    "REF_DATE": "10-May",
+    "GEO": "Saskatchewan",
+    "VALUE": 93.9
+  },
+  {
+    "REF_DATE": "10-Jun",
+    "GEO": "Saskatchewan",
+    "VALUE": 93.8
+  },
+  {
+    "REF_DATE": "10-Jul",
+    "GEO": "Saskatchewan",
+    "VALUE": 93.8
+  },
+  {
+    "REF_DATE": "10-Aug",
+    "GEO": "Saskatchewan",
+    "VALUE": 93.8
+  },
+  {
+    "REF_DATE": "10-Sep",
+    "GEO": "Saskatchewan",
+    "VALUE": 93.8
+  },
+  {
+    "REF_DATE": "10-Oct",
+    "GEO": "Saskatchewan",
+    "VALUE": 94.1
+  },
+  {
+    "REF_DATE": "10-Nov",
+    "GEO": "Saskatchewan",
+    "VALUE": 94.2
+  },
+  {
+    "REF_DATE": "10-Dec",
+    "GEO": "Saskatchewan",
+    "VALUE": 94.2
+  },
+  {
+    "REF_DATE": "11-Jan",
+    "GEO": "Saskatchewan",
+    "VALUE": 94.2
+  },
+  {
+    "REF_DATE": "11-Feb",
+    "GEO": "Saskatchewan",
+    "VALUE": 94.9
+  },
+  {
+    "REF_DATE": "11-Mar",
+    "GEO": "Saskatchewan",
+    "VALUE": 95
+  },
+  {
+    "REF_DATE": "11-Apr",
+    "GEO": "Saskatchewan",
+    "VALUE": 95.1
+  },
+  {
+    "REF_DATE": "11-May",
+    "GEO": "Saskatchewan",
+    "VALUE": 95.7
+  },
+  {
+    "REF_DATE": "11-Jun",
+    "GEO": "Saskatchewan",
+    "VALUE": 95.7
+  },
+  {
+    "REF_DATE": "11-Jul",
+    "GEO": "Saskatchewan",
+    "VALUE": 95.7
+  },
+  {
+    "REF_DATE": "11-Aug",
+    "GEO": "Saskatchewan",
+    "VALUE": 96.2
+  },
+  {
+    "REF_DATE": "11-Sep",
+    "GEO": "Saskatchewan",
+    "VALUE": 96.3
+  },
+  {
+    "REF_DATE": "11-Oct",
+    "GEO": "Saskatchewan",
+    "VALUE": 96.2
+  },
+  {
+    "REF_DATE": "11-Nov",
+    "GEO": "Saskatchewan",
+    "VALUE": 97
+  },
+  {
+    "REF_DATE": "11-Dec",
+    "GEO": "Saskatchewan",
+    "VALUE": 97
+  },
+  {
+    "REF_DATE": "12-Jan",
+    "GEO": "Saskatchewan",
+    "VALUE": 97.4
+  },
+  {
+    "REF_DATE": "12-Feb",
+    "GEO": "Saskatchewan",
+    "VALUE": 98.2
+  },
+  {
+    "REF_DATE": "12-Mar",
+    "GEO": "Saskatchewan",
+    "VALUE": 98.2
+  },
+  {
+    "REF_DATE": "12-Apr",
+    "GEO": "Saskatchewan",
+    "VALUE": 98.7
+  },
+  {
+    "REF_DATE": "12-May",
+    "GEO": "Saskatchewan",
+    "VALUE": 98.9
+  },
+  {
+    "REF_DATE": "12-Jun",
+    "GEO": "Saskatchewan",
+    "VALUE": 99
+  },
+  {
+    "REF_DATE": "12-Jul",
+    "GEO": "Saskatchewan",
+    "VALUE": 99
+  },
+  {
+    "REF_DATE": "12-Aug",
+    "GEO": "Saskatchewan",
+    "VALUE": 99
+  },
+  {
+    "REF_DATE": "12-Sep",
+    "GEO": "Saskatchewan",
+    "VALUE": 99
+  },
+  {
+    "REF_DATE": "12-Oct",
+    "GEO": "Saskatchewan",
+    "VALUE": 99
+  },
+  {
+    "REF_DATE": "12-Nov",
+    "GEO": "Saskatchewan",
+    "VALUE": 99
+  },
+  {
+    "REF_DATE": "12-Dec",
+    "GEO": "Saskatchewan",
+    "VALUE": 99.1
+  },
+  {
+    "REF_DATE": "13-Jan",
+    "GEO": "Saskatchewan",
+    "VALUE": 99.1
+  },
+  {
+    "REF_DATE": "13-Feb",
+    "GEO": "Saskatchewan",
+    "VALUE": 99.5
+  },
+  {
+    "REF_DATE": "13-Mar",
+    "GEO": "Saskatchewan",
+    "VALUE": 100.1
+  },
+  {
+    "REF_DATE": "13-Apr",
+    "GEO": "Saskatchewan",
+    "VALUE": 100.4
+  },
+  {
+    "REF_DATE": "13-May",
+    "GEO": "Saskatchewan",
+    "VALUE": 100.4
+  },
+  {
+    "REF_DATE": "13-Jun",
+    "GEO": "Saskatchewan",
+    "VALUE": 100.8
+  },
+  {
+    "REF_DATE": "13-Jul",
+    "GEO": "Saskatchewan",
+    "VALUE": 100.6
+  },
+  {
+    "REF_DATE": "13-Aug",
+    "GEO": "Saskatchewan",
+    "VALUE": 100.9
+  },
+  {
+    "REF_DATE": "13-Sep",
+    "GEO": "Saskatchewan",
+    "VALUE": 100.9
+  },
+  {
+    "REF_DATE": "13-Oct",
+    "GEO": "Saskatchewan",
+    "VALUE": 101.5
+  },
+  {
+    "REF_DATE": "13-Nov",
+    "GEO": "Saskatchewan",
+    "VALUE": 101.6
+  },
+  {
+    "REF_DATE": "13-Dec",
+    "GEO": "Saskatchewan",
+    "VALUE": 101.6
+  },
+  {
+    "REF_DATE": "14-Jan",
+    "GEO": "Saskatchewan",
+    "VALUE": 102.6
+  },
+  {
+    "REF_DATE": "14-Feb",
+    "GEO": "Saskatchewan",
+    "VALUE": 102.7
+  },
+  {
+    "REF_DATE": "14-Mar",
+    "GEO": "Saskatchewan",
+    "VALUE": 102.6
+  },
+  {
+    "REF_DATE": "14-Apr",
+    "GEO": "Saskatchewan",
+    "VALUE": 102.5
+  },
+  {
+    "REF_DATE": "14-May",
+    "GEO": "Saskatchewan",
+    "VALUE": 102.6
+  },
+  {
+    "REF_DATE": "14-Jun",
+    "GEO": "Saskatchewan",
+    "VALUE": 102.7
+  },
+  {
+    "REF_DATE": "14-Jul",
+    "GEO": "Saskatchewan",
+    "VALUE": 102.6
+  },
+  {
+    "REF_DATE": "14-Aug",
+    "GEO": "Saskatchewan",
+    "VALUE": 102.6
+  },
+  {
+    "REF_DATE": "14-Sep",
+    "GEO": "Saskatchewan",
+    "VALUE": 102.5
+  },
+  {
+    "REF_DATE": "14-Oct",
+    "GEO": "Saskatchewan",
+    "VALUE": 102.5
+  },
+  {
+    "REF_DATE": "14-Nov",
+    "GEO": "Saskatchewan",
+    "VALUE": 102.5
+  },
+  {
+    "REF_DATE": "14-Dec",
+    "GEO": "Saskatchewan",
+    "VALUE": 102.4
+  },
+  {
+    "REF_DATE": "15-Jan",
+    "GEO": "Saskatchewan",
+    "VALUE": 102.4
+  },
+  {
+    "REF_DATE": "15-Feb",
+    "GEO": "Saskatchewan",
+    "VALUE": 102.3
+  },
+  {
+    "REF_DATE": "15-Mar",
+    "GEO": "Saskatchewan",
+    "VALUE": 102.1
+  },
+  {
+    "REF_DATE": "15-Apr",
+    "GEO": "Saskatchewan",
+    "VALUE": 101.7
+  },
+  {
+    "REF_DATE": "15-May",
+    "GEO": "Saskatchewan",
+    "VALUE": 102.1
+  },
+  {
+    "REF_DATE": "15-Jun",
+    "GEO": "Saskatchewan",
+    "VALUE": 101.8
+  },
+  {
+    "REF_DATE": "15-Jul",
+    "GEO": "Saskatchewan",
+    "VALUE": 102.1
+  },
+  {
+    "REF_DATE": "15-Aug",
+    "GEO": "Saskatchewan",
+    "VALUE": 102
+  },
+  {
+    "REF_DATE": "15-Sep",
+    "GEO": "Saskatchewan",
+    "VALUE": 101.6
+  },
+  {
+    "REF_DATE": "15-Oct",
+    "GEO": "Saskatchewan",
+    "VALUE": 101.3
+  },
+  {
+    "REF_DATE": "15-Nov",
+    "GEO": "Saskatchewan",
+    "VALUE": 101
+  },
+  {
+    "REF_DATE": "15-Dec",
+    "GEO": "Saskatchewan",
+    "VALUE": 101.1
+  },
+  {
+    "REF_DATE": "16-Jan",
+    "GEO": "Saskatchewan",
+    "VALUE": 101
+  },
+  {
+    "REF_DATE": "16-Feb",
+    "GEO": "Saskatchewan",
+    "VALUE": 100.8
+  },
+  {
+    "REF_DATE": "16-Mar",
+    "GEO": "Saskatchewan",
+    "VALUE": 100.6
+  },
+  {
+    "REF_DATE": "16-Apr",
+    "GEO": "Saskatchewan",
+    "VALUE": 100.3
+  },
+  {
+    "REF_DATE": "16-May",
+    "GEO": "Saskatchewan",
+    "VALUE": 100.2
+  },
+  {
+    "REF_DATE": "16-Jun",
+    "GEO": "Saskatchewan",
+    "VALUE": 100.1
+  },
+  {
+    "REF_DATE": "16-Jul",
+    "GEO": "Saskatchewan",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "16-Aug",
+    "GEO": "Saskatchewan",
+    "VALUE": 99.8
+  },
+  {
+    "REF_DATE": "16-Sep",
+    "GEO": "Saskatchewan",
+    "VALUE": 99.8
+  },
+  {
+    "REF_DATE": "16-Oct",
+    "GEO": "Saskatchewan",
+    "VALUE": 99.8
+  },
+  {
+    "REF_DATE": "16-Nov",
+    "GEO": "Saskatchewan",
+    "VALUE": 99.7
+  },
+  {
+    "REF_DATE": "16-Dec",
+    "GEO": "Saskatchewan",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "17-Jan",
+    "GEO": "Saskatchewan",
+    "VALUE": 99.9
+  },
+  {
+    "REF_DATE": "17-Feb",
+    "GEO": "Saskatchewan",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "17-Mar",
+    "GEO": "Saskatchewan",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "17-Apr",
+    "GEO": "Saskatchewan",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "17-May",
+    "GEO": "Saskatchewan",
+    "VALUE": 99.8
+  },
+  {
+    "REF_DATE": "17-Jun",
+    "GEO": "Saskatchewan",
+    "VALUE": 99.6
+  },
+  {
+    "REF_DATE": "17-Jul",
+    "GEO": "Saskatchewan",
+    "VALUE": 99.6
+  },
+  {
+    "REF_DATE": "17-Aug",
+    "GEO": "Saskatchewan",
+    "VALUE": 99.7
+  },
+  {
+    "REF_DATE": "17-Sep",
+    "GEO": "Saskatchewan",
+    "VALUE": 99.5
+  },
+  {
+    "REF_DATE": "17-Oct",
+    "GEO": "Saskatchewan",
+    "VALUE": 99.5
+  },
+  {
+    "REF_DATE": "17-Nov",
+    "GEO": "Saskatchewan",
+    "VALUE": 99.1
+  },
+  {
+    "REF_DATE": "17-Dec",
+    "GEO": "Saskatchewan",
+    "VALUE": 99.1
+  },
+  {
+    "REF_DATE": "18-Jan",
+    "GEO": "Saskatchewan",
+    "VALUE": 99.1
+  },
+  {
+    "REF_DATE": "18-Feb",
+    "GEO": "Saskatchewan",
+    "VALUE": 98.6
+  },
+  {
+    "REF_DATE": "18-Mar",
+    "GEO": "Saskatchewan",
+    "VALUE": 98.6
+  },
+  {
+    "REF_DATE": "18-Apr",
+    "GEO": "Saskatchewan",
+    "VALUE": 98.9
+  },
+  {
+    "REF_DATE": "18-May",
+    "GEO": "Saskatchewan",
+    "VALUE": 98.7
+  },
+  {
+    "REF_DATE": "18-Jun",
+    "GEO": "Saskatchewan",
+    "VALUE": 98.5
+  },
+  {
+    "REF_DATE": "18-Jul",
+    "GEO": "Saskatchewan",
+    "VALUE": 98.6
+  },
+  {
+    "REF_DATE": "18-Aug",
+    "GEO": "Saskatchewan",
+    "VALUE": 98.4
+  },
+  {
+    "REF_DATE": "18-Sep",
+    "GEO": "Saskatchewan",
+    "VALUE": 98.2
+  },
+  {
+    "REF_DATE": "18-Oct",
+    "GEO": "Saskatchewan",
+    "VALUE": 98.1
+  },
+  {
+    "REF_DATE": "18-Nov",
+    "GEO": "Saskatchewan",
+    "VALUE": 97.9
+  },
+  {
+    "REF_DATE": "8-Jan",
+    "GEO": "Alberta",
+    "VALUE": 104.2
+  },
+  {
+    "REF_DATE": "8-Feb",
+    "GEO": "Alberta",
+    "VALUE": 103.6
+  },
+  {
+    "REF_DATE": "8-Mar",
+    "GEO": "Alberta",
+    "VALUE": 103.3
+  },
+  {
+    "REF_DATE": "8-Apr",
+    "GEO": "Alberta",
+    "VALUE": 102.6
+  },
+  {
+    "REF_DATE": "8-May",
+    "GEO": "Alberta",
+    "VALUE": 101.2
+  },
+  {
+    "REF_DATE": "8-Jun",
+    "GEO": "Alberta",
+    "VALUE": 100.8
+  },
+  {
+    "REF_DATE": "8-Jul",
+    "GEO": "Alberta",
+    "VALUE": 100.6
+  },
+  {
+    "REF_DATE": "8-Aug",
+    "GEO": "Alberta",
+    "VALUE": 100.1
+  },
+  {
+    "REF_DATE": "8-Sep",
+    "GEO": "Alberta",
+    "VALUE": 100.4
+  },
+  {
+    "REF_DATE": "8-Oct",
+    "GEO": "Alberta",
+    "VALUE": 99.3
+  },
+  {
+    "REF_DATE": "8-Nov",
+    "GEO": "Alberta",
+    "VALUE": 98.7
+  },
+  {
+    "REF_DATE": "8-Dec",
+    "GEO": "Alberta",
+    "VALUE": 97.8
+  },
+  {
+    "REF_DATE": "9-Jan",
+    "GEO": "Alberta",
+    "VALUE": 95.5
+  },
+  {
+    "REF_DATE": "9-Feb",
+    "GEO": "Alberta",
+    "VALUE": 93.6
+  },
+  {
+    "REF_DATE": "9-Mar",
+    "GEO": "Alberta",
+    "VALUE": 92.5
+  },
+  {
+    "REF_DATE": "9-Apr",
+    "GEO": "Alberta",
+    "VALUE": 91.7
+  },
+  {
+    "REF_DATE": "9-May",
+    "GEO": "Alberta",
+    "VALUE": 91.3
+  },
+  {
+    "REF_DATE": "9-Jun",
+    "GEO": "Alberta",
+    "VALUE": 90.9
+  },
+  {
+    "REF_DATE": "9-Jul",
+    "GEO": "Alberta",
+    "VALUE": 91.3
+  },
+  {
+    "REF_DATE": "9-Aug",
+    "GEO": "Alberta",
+    "VALUE": 91.2
+  },
+  {
+    "REF_DATE": "9-Sep",
+    "GEO": "Alberta",
+    "VALUE": 91.5
+  },
+  {
+    "REF_DATE": "9-Oct",
+    "GEO": "Alberta",
+    "VALUE": 91.5
+  },
+  {
+    "REF_DATE": "9-Nov",
+    "GEO": "Alberta",
+    "VALUE": 91.7
+  },
+  {
+    "REF_DATE": "9-Dec",
+    "GEO": "Alberta",
+    "VALUE": 91.7
+  },
+  {
+    "REF_DATE": "10-Jan",
+    "GEO": "Alberta",
+    "VALUE": 92.1
+  },
+  {
+    "REF_DATE": "10-Feb",
+    "GEO": "Alberta",
+    "VALUE": 92.3
+  },
+  {
+    "REF_DATE": "10-Mar",
+    "GEO": "Alberta",
+    "VALUE": 92.3
+  },
+  {
+    "REF_DATE": "10-Apr",
+    "GEO": "Alberta",
+    "VALUE": 92.6
+  },
+  {
+    "REF_DATE": "10-May",
+    "GEO": "Alberta",
+    "VALUE": 92.7
+  },
+  {
+    "REF_DATE": "10-Jun",
+    "GEO": "Alberta",
+    "VALUE": 92.6
+  },
+  {
+    "REF_DATE": "10-Jul",
+    "GEO": "Alberta",
+    "VALUE": 92.6
+  },
+  {
+    "REF_DATE": "10-Aug",
+    "GEO": "Alberta",
+    "VALUE": 92.6
+  },
+  {
+    "REF_DATE": "10-Sep",
+    "GEO": "Alberta",
+    "VALUE": 92.7
+  },
+  {
+    "REF_DATE": "10-Oct",
+    "GEO": "Alberta",
+    "VALUE": 92.4
+  },
+  {
+    "REF_DATE": "10-Nov",
+    "GEO": "Alberta",
+    "VALUE": 92.5
+  },
+  {
+    "REF_DATE": "10-Dec",
+    "GEO": "Alberta",
+    "VALUE": 92.5
+  },
+  {
+    "REF_DATE": "11-Jan",
+    "GEO": "Alberta",
+    "VALUE": 92.6
+  },
+  {
+    "REF_DATE": "11-Feb",
+    "GEO": "Alberta",
+    "VALUE": 93
+  },
+  {
+    "REF_DATE": "11-Mar",
+    "GEO": "Alberta",
+    "VALUE": 92.8
+  },
+  {
+    "REF_DATE": "11-Apr",
+    "GEO": "Alberta",
+    "VALUE": 92.7
+  },
+  {
+    "REF_DATE": "11-May",
+    "GEO": "Alberta",
+    "VALUE": 93
+  },
+  {
+    "REF_DATE": "11-Jun",
+    "GEO": "Alberta",
+    "VALUE": 93
+  },
+  {
+    "REF_DATE": "11-Jul",
+    "GEO": "Alberta",
+    "VALUE": 92.7
+  },
+  {
+    "REF_DATE": "11-Aug",
+    "GEO": "Alberta",
+    "VALUE": 92.7
+  },
+  {
+    "REF_DATE": "11-Sep",
+    "GEO": "Alberta",
+    "VALUE": 92.8
+  },
+  {
+    "REF_DATE": "11-Oct",
+    "GEO": "Alberta",
+    "VALUE": 93.1
+  },
+  {
+    "REF_DATE": "11-Nov",
+    "GEO": "Alberta",
+    "VALUE": 93
+  },
+  {
+    "REF_DATE": "11-Dec",
+    "GEO": "Alberta",
+    "VALUE": 93.1
+  },
+  {
+    "REF_DATE": "12-Jan",
+    "GEO": "Alberta",
+    "VALUE": 93.2
+  },
+  {
+    "REF_DATE": "12-Feb",
+    "GEO": "Alberta",
+    "VALUE": 93.2
+  },
+  {
+    "REF_DATE": "12-Mar",
+    "GEO": "Alberta",
+    "VALUE": 93.6
+  },
+  {
+    "REF_DATE": "12-Apr",
+    "GEO": "Alberta",
+    "VALUE": 93.7
+  },
+  {
+    "REF_DATE": "12-May",
+    "GEO": "Alberta",
+    "VALUE": 93.9
+  },
+  {
+    "REF_DATE": "12-Jun",
+    "GEO": "Alberta",
+    "VALUE": 94.1
+  },
+  {
+    "REF_DATE": "12-Jul",
+    "GEO": "Alberta",
+    "VALUE": 94.2
+  },
+  {
+    "REF_DATE": "12-Aug",
+    "GEO": "Alberta",
+    "VALUE": 94.2
+  },
+  {
+    "REF_DATE": "12-Sep",
+    "GEO": "Alberta",
+    "VALUE": 94.4
+  },
+  {
+    "REF_DATE": "12-Oct",
+    "GEO": "Alberta",
+    "VALUE": 94.6
+  },
+  {
+    "REF_DATE": "12-Nov",
+    "GEO": "Alberta",
+    "VALUE": 94.6
+  },
+  {
+    "REF_DATE": "12-Dec",
+    "GEO": "Alberta",
+    "VALUE": 94.9
+  },
+  {
+    "REF_DATE": "13-Jan",
+    "GEO": "Alberta",
+    "VALUE": 95.1
+  },
+  {
+    "REF_DATE": "13-Feb",
+    "GEO": "Alberta",
+    "VALUE": 95.6
+  },
+  {
+    "REF_DATE": "13-Mar",
+    "GEO": "Alberta",
+    "VALUE": 95.7
+  },
+  {
+    "REF_DATE": "13-Apr",
+    "GEO": "Alberta",
+    "VALUE": 96.1
+  },
+  {
+    "REF_DATE": "13-May",
+    "GEO": "Alberta",
+    "VALUE": 96.4
+  },
+  {
+    "REF_DATE": "13-Jun",
+    "GEO": "Alberta",
+    "VALUE": 96.7
+  },
+  {
+    "REF_DATE": "13-Jul",
+    "GEO": "Alberta",
+    "VALUE": 96.9
+  },
+  {
+    "REF_DATE": "13-Aug",
+    "GEO": "Alberta",
+    "VALUE": 97.3
+  },
+  {
+    "REF_DATE": "13-Sep",
+    "GEO": "Alberta",
+    "VALUE": 97.4
+  },
+  {
+    "REF_DATE": "13-Oct",
+    "GEO": "Alberta",
+    "VALUE": 97.4
+  },
+  {
+    "REF_DATE": "13-Nov",
+    "GEO": "Alberta",
+    "VALUE": 97.5
+  },
+  {
+    "REF_DATE": "13-Dec",
+    "GEO": "Alberta",
+    "VALUE": 97.6
+  },
+  {
+    "REF_DATE": "14-Jan",
+    "GEO": "Alberta",
+    "VALUE": 98.2
+  },
+  {
+    "REF_DATE": "14-Feb",
+    "GEO": "Alberta",
+    "VALUE": 98.7
+  },
+  {
+    "REF_DATE": "14-Mar",
+    "GEO": "Alberta",
+    "VALUE": 99.1
+  },
+  {
+    "REF_DATE": "14-Apr",
+    "GEO": "Alberta",
+    "VALUE": 99.3
+  },
+  {
+    "REF_DATE": "14-May",
+    "GEO": "Alberta",
+    "VALUE": 99.9
+  },
+  {
+    "REF_DATE": "14-Jun",
+    "GEO": "Alberta",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "14-Jul",
+    "GEO": "Alberta",
+    "VALUE": 100.1
+  },
+  {
+    "REF_DATE": "14-Aug",
+    "GEO": "Alberta",
+    "VALUE": 100.5
+  },
+  {
+    "REF_DATE": "14-Sep",
+    "GEO": "Alberta",
+    "VALUE": 100.8
+  },
+  {
+    "REF_DATE": "14-Oct",
+    "GEO": "Alberta",
+    "VALUE": 100.8
+  },
+  {
+    "REF_DATE": "14-Nov",
+    "GEO": "Alberta",
+    "VALUE": 101
+  },
+  {
+    "REF_DATE": "14-Dec",
+    "GEO": "Alberta",
+    "VALUE": 101.1
+  },
+  {
+    "REF_DATE": "15-Jan",
+    "GEO": "Alberta",
+    "VALUE": 101
+  },
+  {
+    "REF_DATE": "15-Feb",
+    "GEO": "Alberta",
+    "VALUE": 101
+  },
+  {
+    "REF_DATE": "15-Mar",
+    "GEO": "Alberta",
+    "VALUE": 100.8
+  },
+  {
+    "REF_DATE": "15-Apr",
+    "GEO": "Alberta",
+    "VALUE": 100.6
+  },
+  {
+    "REF_DATE": "15-May",
+    "GEO": "Alberta",
+    "VALUE": 100.6
+  },
+  {
+    "REF_DATE": "15-Jun",
+    "GEO": "Alberta",
+    "VALUE": 100.6
+  },
+  {
+    "REF_DATE": "15-Jul",
+    "GEO": "Alberta",
+    "VALUE": 100.5
+  },
+  {
+    "REF_DATE": "15-Aug",
+    "GEO": "Alberta",
+    "VALUE": 100.5
+  },
+  {
+    "REF_DATE": "15-Sep",
+    "GEO": "Alberta",
+    "VALUE": 100.5
+  },
+  {
+    "REF_DATE": "15-Oct",
+    "GEO": "Alberta",
+    "VALUE": 100.7
+  },
+  {
+    "REF_DATE": "15-Nov",
+    "GEO": "Alberta",
+    "VALUE": 100.7
+  },
+  {
+    "REF_DATE": "15-Dec",
+    "GEO": "Alberta",
+    "VALUE": 100.7
+  },
+  {
+    "REF_DATE": "16-Jan",
+    "GEO": "Alberta",
+    "VALUE": 100.7
+  },
+  {
+    "REF_DATE": "16-Feb",
+    "GEO": "Alberta",
+    "VALUE": 100.4
+  },
+  {
+    "REF_DATE": "16-Mar",
+    "GEO": "Alberta",
+    "VALUE": 100.4
+  },
+  {
+    "REF_DATE": "16-Apr",
+    "GEO": "Alberta",
+    "VALUE": 100.4
+  },
+  {
+    "REF_DATE": "16-May",
+    "GEO": "Alberta",
+    "VALUE": 100.5
+  },
+  {
+    "REF_DATE": "16-Jun",
+    "GEO": "Alberta",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "16-Jul",
+    "GEO": "Alberta",
+    "VALUE": 100.1
+  },
+  {
+    "REF_DATE": "16-Aug",
+    "GEO": "Alberta",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "16-Sep",
+    "GEO": "Alberta",
+    "VALUE": 99.8
+  },
+  {
+    "REF_DATE": "16-Oct",
+    "GEO": "Alberta",
+    "VALUE": 99.7
+  },
+  {
+    "REF_DATE": "16-Nov",
+    "GEO": "Alberta",
+    "VALUE": 99.8
+  },
+  {
+    "REF_DATE": "16-Dec",
+    "GEO": "Alberta",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "17-Jan",
+    "GEO": "Alberta",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "17-Feb",
+    "GEO": "Alberta",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "17-Mar",
+    "GEO": "Alberta",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "17-Apr",
+    "GEO": "Alberta",
+    "VALUE": 99.9
+  },
+  {
+    "REF_DATE": "17-May",
+    "GEO": "Alberta",
+    "VALUE": 99.7
+  },
+  {
+    "REF_DATE": "17-Jun",
+    "GEO": "Alberta",
+    "VALUE": 99.6
+  },
+  {
+    "REF_DATE": "17-Jul",
+    "GEO": "Alberta",
+    "VALUE": 100.1
+  },
+  {
+    "REF_DATE": "17-Aug",
+    "GEO": "Alberta",
+    "VALUE": 100.1
+  },
+  {
+    "REF_DATE": "17-Sep",
+    "GEO": "Alberta",
+    "VALUE": 100.1
+  },
+  {
+    "REF_DATE": "17-Oct",
+    "GEO": "Alberta",
+    "VALUE": 100.1
+  },
+  {
+    "REF_DATE": "17-Nov",
+    "GEO": "Alberta",
+    "VALUE": 100.2
+  },
+  {
+    "REF_DATE": "17-Dec",
+    "GEO": "Alberta",
+    "VALUE": 100.1
+  },
+  {
+    "REF_DATE": "18-Jan",
+    "GEO": "Alberta",
+    "VALUE": 100.1
+  },
+  {
+    "REF_DATE": "18-Feb",
+    "GEO": "Alberta",
+    "VALUE": 99.8
+  },
+  {
+    "REF_DATE": "18-Mar",
+    "GEO": "Alberta",
+    "VALUE": 99.6
+  },
+  {
+    "REF_DATE": "18-Apr",
+    "GEO": "Alberta",
+    "VALUE": 99.6
+  },
+  {
+    "REF_DATE": "18-May",
+    "GEO": "Alberta",
+    "VALUE": 99.6
+  },
+  {
+    "REF_DATE": "18-Jun",
+    "GEO": "Alberta",
+    "VALUE": 99.8
+  },
+  {
+    "REF_DATE": "18-Jul",
+    "GEO": "Alberta",
+    "VALUE": 99.9
+  },
+  {
+    "REF_DATE": "18-Aug",
+    "GEO": "Alberta",
+    "VALUE": 99.4
+  },
+  {
+    "REF_DATE": "18-Sep",
+    "GEO": "Alberta",
+    "VALUE": 99.4
+  },
+  {
+    "REF_DATE": "18-Oct",
+    "GEO": "Alberta",
+    "VALUE": 99.3
+  },
+  {
+    "REF_DATE": "18-Nov",
+    "GEO": "Alberta",
+    "VALUE": 99.3
+  },
+  {
+    "REF_DATE": "8-Jan",
+    "GEO": "British Columbia",
+    "VALUE": 101.5
+  },
+  {
+    "REF_DATE": "8-Feb",
+    "GEO": "British Columbia",
+    "VALUE": 101.6
+  },
+  {
+    "REF_DATE": "8-Mar",
+    "GEO": "British Columbia",
+    "VALUE": 102.2
+  },
+  {
+    "REF_DATE": "8-Apr",
+    "GEO": "British Columbia",
+    "VALUE": 102.2
+  },
+  {
+    "REF_DATE": "8-May",
+    "GEO": "British Columbia",
+    "VALUE": 101.9
+  },
+  {
+    "REF_DATE": "8-Jun",
+    "GEO": "British Columbia",
+    "VALUE": 101.9
+  },
+  {
+    "REF_DATE": "8-Jul",
+    "GEO": "British Columbia",
+    "VALUE": 101.9
+  },
+  {
+    "REF_DATE": "8-Aug",
+    "GEO": "British Columbia",
+    "VALUE": 101.8
+  },
+  {
+    "REF_DATE": "8-Sep",
+    "GEO": "British Columbia",
+    "VALUE": 101.8
+  },
+  {
+    "REF_DATE": "8-Oct",
+    "GEO": "British Columbia",
+    "VALUE": 100.6
+  },
+  {
+    "REF_DATE": "8-Nov",
+    "GEO": "British Columbia",
+    "VALUE": 99
+  },
+  {
+    "REF_DATE": "8-Dec",
+    "GEO": "British Columbia",
+    "VALUE": 99
+  },
+  {
+    "REF_DATE": "9-Jan",
+    "GEO": "British Columbia",
+    "VALUE": 98.1
+  },
+  {
+    "REF_DATE": "9-Feb",
+    "GEO": "British Columbia",
+    "VALUE": 95.4
+  },
+  {
+    "REF_DATE": "9-Mar",
+    "GEO": "British Columbia",
+    "VALUE": 94.3
+  },
+  {
+    "REF_DATE": "9-Apr",
+    "GEO": "British Columbia",
+    "VALUE": 93.3
+  },
+  {
+    "REF_DATE": "9-May",
+    "GEO": "British Columbia",
+    "VALUE": 93.6
+  },
+  {
+    "REF_DATE": "9-Jun",
+    "GEO": "British Columbia",
+    "VALUE": 92.8
+  },
+  {
+    "REF_DATE": "9-Jul",
+    "GEO": "British Columbia",
+    "VALUE": 93.4
+  },
+  {
+    "REF_DATE": "9-Aug",
+    "GEO": "British Columbia",
+    "VALUE": 93.6
+  },
+  {
+    "REF_DATE": "9-Sep",
+    "GEO": "British Columbia",
+    "VALUE": 94.8
+  },
+  {
+    "REF_DATE": "9-Oct",
+    "GEO": "British Columbia",
+    "VALUE": 95.3
+  },
+  {
+    "REF_DATE": "9-Nov",
+    "GEO": "British Columbia",
+    "VALUE": 95.6
+  },
+  {
+    "REF_DATE": "9-Dec",
+    "GEO": "British Columbia",
+    "VALUE": 96.1
+  },
+  {
+    "REF_DATE": "10-Jan",
+    "GEO": "British Columbia",
+    "VALUE": 96.5
+  },
+  {
+    "REF_DATE": "10-Feb",
+    "GEO": "British Columbia",
+    "VALUE": 97
+  },
+  {
+    "REF_DATE": "10-Mar",
+    "GEO": "British Columbia",
+    "VALUE": 97.5
+  },
+  {
+    "REF_DATE": "10-Apr",
+    "GEO": "British Columbia",
+    "VALUE": 97.8
+  },
+  {
+    "REF_DATE": "10-May",
+    "GEO": "British Columbia",
+    "VALUE": 98
+  },
+  {
+    "REF_DATE": "10-Jun",
+    "GEO": "British Columbia",
+    "VALUE": 97.9
+  },
+  {
+    "REF_DATE": "10-Jul",
+    "GEO": "British Columbia",
+    "VALUE": 97.2
+  },
+  {
+    "REF_DATE": "10-Aug",
+    "GEO": "British Columbia",
+    "VALUE": 97.2
+  },
+  {
+    "REF_DATE": "10-Sep",
+    "GEO": "British Columbia",
+    "VALUE": 96.8
+  },
+  {
+    "REF_DATE": "10-Oct",
+    "GEO": "British Columbia",
+    "VALUE": 96.8
+  },
+  {
+    "REF_DATE": "10-Nov",
+    "GEO": "British Columbia",
+    "VALUE": 96.6
+  },
+  {
+    "REF_DATE": "10-Dec",
+    "GEO": "British Columbia",
+    "VALUE": 96.5
+  },
+  {
+    "REF_DATE": "11-Jan",
+    "GEO": "British Columbia",
+    "VALUE": 96.6
+  },
+  {
+    "REF_DATE": "11-Feb",
+    "GEO": "British Columbia",
+    "VALUE": 96.6
+  },
+  {
+    "REF_DATE": "11-Mar",
+    "GEO": "British Columbia",
+    "VALUE": 96.8
+  },
+  {
+    "REF_DATE": "11-Apr",
+    "GEO": "British Columbia",
+    "VALUE": 96.9
+  },
+  {
+    "REF_DATE": "11-May",
+    "GEO": "British Columbia",
+    "VALUE": 97.1
+  },
+  {
+    "REF_DATE": "11-Jun",
+    "GEO": "British Columbia",
+    "VALUE": 97.1
+  },
+  {
+    "REF_DATE": "11-Jul",
+    "GEO": "British Columbia",
+    "VALUE": 97.1
+  },
+  {
+    "REF_DATE": "11-Aug",
+    "GEO": "British Columbia",
+    "VALUE": 96.7
+  },
+  {
+    "REF_DATE": "11-Sep",
+    "GEO": "British Columbia",
+    "VALUE": 96.8
+  },
+  {
+    "REF_DATE": "11-Oct",
+    "GEO": "British Columbia",
+    "VALUE": 96.6
+  },
+  {
+    "REF_DATE": "11-Nov",
+    "GEO": "British Columbia",
+    "VALUE": 96.3
+  },
+  {
+    "REF_DATE": "11-Dec",
+    "GEO": "British Columbia",
+    "VALUE": 96.1
+  },
+  {
+    "REF_DATE": "12-Jan",
+    "GEO": "British Columbia",
+    "VALUE": 96.3
+  },
+  {
+    "REF_DATE": "12-Feb",
+    "GEO": "British Columbia",
+    "VALUE": 96.2
+  },
+  {
+    "REF_DATE": "12-Mar",
+    "GEO": "British Columbia",
+    "VALUE": 96
+  },
+  {
+    "REF_DATE": "12-Apr",
+    "GEO": "British Columbia",
+    "VALUE": 96
+  },
+  {
+    "REF_DATE": "12-May",
+    "GEO": "British Columbia",
+    "VALUE": 96
+  },
+  {
+    "REF_DATE": "12-Jun",
+    "GEO": "British Columbia",
+    "VALUE": 96.1
+  },
+  {
+    "REF_DATE": "12-Jul",
+    "GEO": "British Columbia",
+    "VALUE": 96.1
+  },
+  {
+    "REF_DATE": "12-Aug",
+    "GEO": "British Columbia",
+    "VALUE": 96
+  },
+  {
+    "REF_DATE": "12-Sep",
+    "GEO": "British Columbia",
+    "VALUE": 95.9
+  },
+  {
+    "REF_DATE": "12-Oct",
+    "GEO": "British Columbia",
+    "VALUE": 96.1
+  },
+  {
+    "REF_DATE": "12-Nov",
+    "GEO": "British Columbia",
+    "VALUE": 95.7
+  },
+  {
+    "REF_DATE": "12-Dec",
+    "GEO": "British Columbia",
+    "VALUE": 95.4
+  },
+  {
+    "REF_DATE": "13-Jan",
+    "GEO": "British Columbia",
+    "VALUE": 95.3
+  },
+  {
+    "REF_DATE": "13-Feb",
+    "GEO": "British Columbia",
+    "VALUE": 95.4
+  },
+  {
+    "REF_DATE": "13-Mar",
+    "GEO": "British Columbia",
+    "VALUE": 95.2
+  },
+  {
+    "REF_DATE": "13-Apr",
+    "GEO": "British Columbia",
+    "VALUE": 95.3
+  },
+  {
+    "REF_DATE": "13-May",
+    "GEO": "British Columbia",
+    "VALUE": 95.1
+  },
+  {
+    "REF_DATE": "13-Jun",
+    "GEO": "British Columbia",
+    "VALUE": 94.9
+  },
+  {
+    "REF_DATE": "13-Jul",
+    "GEO": "British Columbia",
+    "VALUE": 95.1
+  },
+  {
+    "REF_DATE": "13-Aug",
+    "GEO": "British Columbia",
+    "VALUE": 94.8
+  },
+  {
+    "REF_DATE": "13-Sep",
+    "GEO": "British Columbia",
+    "VALUE": 94.8
+  },
+  {
+    "REF_DATE": "13-Oct",
+    "GEO": "British Columbia",
+    "VALUE": 94.6
+  },
+  {
+    "REF_DATE": "13-Nov",
+    "GEO": "British Columbia",
+    "VALUE": 94.5
+  },
+  {
+    "REF_DATE": "13-Dec",
+    "GEO": "British Columbia",
+    "VALUE": 94.3
+  },
+  {
+    "REF_DATE": "14-Jan",
+    "GEO": "British Columbia",
+    "VALUE": 94.3
+  },
+  {
+    "REF_DATE": "14-Feb",
+    "GEO": "British Columbia",
+    "VALUE": 94.3
+  },
+  {
+    "REF_DATE": "14-Mar",
+    "GEO": "British Columbia",
+    "VALUE": 94.2
+  },
+  {
+    "REF_DATE": "14-Apr",
+    "GEO": "British Columbia",
+    "VALUE": 93.9
+  },
+  {
+    "REF_DATE": "14-May",
+    "GEO": "British Columbia",
+    "VALUE": 93.7
+  },
+  {
+    "REF_DATE": "14-Jun",
+    "GEO": "British Columbia",
+    "VALUE": 93.6
+  },
+  {
+    "REF_DATE": "14-Jul",
+    "GEO": "British Columbia",
+    "VALUE": 93.5
+  },
+  {
+    "REF_DATE": "14-Aug",
+    "GEO": "British Columbia",
+    "VALUE": 93.7
+  },
+  {
+    "REF_DATE": "14-Sep",
+    "GEO": "British Columbia",
+    "VALUE": 93.7
+  },
+  {
+    "REF_DATE": "14-Oct",
+    "GEO": "British Columbia",
+    "VALUE": 94
+  },
+  {
+    "REF_DATE": "14-Nov",
+    "GEO": "British Columbia",
+    "VALUE": 93.8
+  },
+  {
+    "REF_DATE": "14-Dec",
+    "GEO": "British Columbia",
+    "VALUE": 93.8
+  },
+  {
+    "REF_DATE": "15-Jan",
+    "GEO": "British Columbia",
+    "VALUE": 93.6
+  },
+  {
+    "REF_DATE": "15-Feb",
+    "GEO": "British Columbia",
+    "VALUE": 93.6
+  },
+  {
+    "REF_DATE": "15-Mar",
+    "GEO": "British Columbia",
+    "VALUE": 93.6
+  },
+  {
+    "REF_DATE": "15-Apr",
+    "GEO": "British Columbia",
+    "VALUE": 94.2
+  },
+  {
+    "REF_DATE": "15-May",
+    "GEO": "British Columbia",
+    "VALUE": 94.2
+  },
+  {
+    "REF_DATE": "15-Jun",
+    "GEO": "British Columbia",
+    "VALUE": 94.4
+  },
+  {
+    "REF_DATE": "15-Jul",
+    "GEO": "British Columbia",
+    "VALUE": 94.7
+  },
+  {
+    "REF_DATE": "15-Aug",
+    "GEO": "British Columbia",
+    "VALUE": 94.7
+  },
+  {
+    "REF_DATE": "15-Sep",
+    "GEO": "British Columbia",
+    "VALUE": 95.1
+  },
+  {
+    "REF_DATE": "15-Oct",
+    "GEO": "British Columbia",
+    "VALUE": 95.3
+  },
+  {
+    "REF_DATE": "15-Nov",
+    "GEO": "British Columbia",
+    "VALUE": 95.8
+  },
+  {
+    "REF_DATE": "15-Dec",
+    "GEO": "British Columbia",
+    "VALUE": 95.9
+  },
+  {
+    "REF_DATE": "16-Jan",
+    "GEO": "British Columbia",
+    "VALUE": 96.3
+  },
+  {
+    "REF_DATE": "16-Feb",
+    "GEO": "British Columbia",
+    "VALUE": 97.1
+  },
+  {
+    "REF_DATE": "16-Mar",
+    "GEO": "British Columbia",
+    "VALUE": 97.4
+  },
+  {
+    "REF_DATE": "16-Apr",
+    "GEO": "British Columbia",
+    "VALUE": 97.7
+  },
+  {
+    "REF_DATE": "16-May",
+    "GEO": "British Columbia",
+    "VALUE": 98.8
+  },
+  {
+    "REF_DATE": "16-Jun",
+    "GEO": "British Columbia",
+    "VALUE": 99.2
+  },
+  {
+    "REF_DATE": "16-Jul",
+    "GEO": "British Columbia",
+    "VALUE": 99.7
+  },
+  {
+    "REF_DATE": "16-Aug",
+    "GEO": "British Columbia",
+    "VALUE": 99.7
+  },
+  {
+    "REF_DATE": "16-Sep",
+    "GEO": "British Columbia",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "16-Oct",
+    "GEO": "British Columbia",
+    "VALUE": 100.3
+  },
+  {
+    "REF_DATE": "16-Nov",
+    "GEO": "British Columbia",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "16-Dec",
+    "GEO": "British Columbia",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "17-Jan",
+    "GEO": "British Columbia",
+    "VALUE": 99.9
+  },
+  {
+    "REF_DATE": "17-Feb",
+    "GEO": "British Columbia",
+    "VALUE": 100
+  },
+  {
+    "REF_DATE": "17-Mar",
+    "GEO": "British Columbia",
+    "VALUE": 100.5
+  },
+  {
+    "REF_DATE": "17-Apr",
+    "GEO": "British Columbia",
+    "VALUE": 101.5
+  },
+  {
+    "REF_DATE": "17-May",
+    "GEO": "British Columbia",
+    "VALUE": 103.4
+  },
+  {
+    "REF_DATE": "17-Jun",
+    "GEO": "British Columbia",
+    "VALUE": 104.7
+  },
+  {
+    "REF_DATE": "17-Jul",
+    "GEO": "British Columbia",
+    "VALUE": 106.5
+  },
+  {
+    "REF_DATE": "17-Aug",
+    "GEO": "British Columbia",
+    "VALUE": 106.6
+  },
+  {
+    "REF_DATE": "17-Sep",
+    "GEO": "British Columbia",
+    "VALUE": 107.3
+  },
+  {
+    "REF_DATE": "17-Oct",
+    "GEO": "British Columbia",
+    "VALUE": 107.6
+  },
+  {
+    "REF_DATE": "17-Nov",
+    "GEO": "British Columbia",
+    "VALUE": 107.6
+  },
+  {
+    "REF_DATE": "17-Dec",
+    "GEO": "British Columbia",
+    "VALUE": 107.8
+  },
+  {
+    "REF_DATE": "18-Jan",
+    "GEO": "British Columbia",
+    "VALUE": 107.8
+  },
+  {
+    "REF_DATE": "18-Feb",
+    "GEO": "British Columbia",
+    "VALUE": 107.8
+  },
+  {
+    "REF_DATE": "18-Mar",
+    "GEO": "British Columbia",
+    "VALUE": 107.9
+  },
+  {
+    "REF_DATE": "18-Apr",
+    "GEO": "British Columbia",
+    "VALUE": 107.9
+  },
+  {
+    "REF_DATE": "18-May",
+    "GEO": "British Columbia",
+    "VALUE": 107.9
+  },
+  {
+    "REF_DATE": "18-Jun",
+    "GEO": "British Columbia",
+    "VALUE": 108
+  },
+  {
+    "REF_DATE": "18-Jul",
+    "GEO": "British Columbia",
+    "VALUE": 107.9
+  },
+  {
+    "REF_DATE": "18-Aug",
+    "GEO": "British Columbia",
+    "VALUE": 107.8
+  },
+  {
+    "REF_DATE": "18-Sep",
+    "GEO": "British Columbia",
+    "VALUE": 108
+  },
+  {
+    "REF_DATE": "18-Oct",
+    "GEO": "British Columbia",
+    "VALUE": 108
+  },
+  {
+    "REF_DATE": "18-Nov",
+    "GEO": "British Columbia",
+    "VALUE": 107.8
+  }
+]
